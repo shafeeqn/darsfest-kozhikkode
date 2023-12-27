@@ -1390,7 +1390,7 @@
   "slug": "darul-hidaya-dars-orkkatteri",
   "category": "JUNIOR",
   "stage1": "01. ഖിറാഅത്ത്",
-  "stage2": "2. ഹിഫ്‌ള്"
+  "stage2": "02. ഹിഫ്‌ള്"
  },
  {
   "code": "CJ151",
@@ -1401,7 +1401,7 @@
   "slug": "darul-hidaya-dars-orkkatteri",
   "category": "JUNIOR",
   "stage1": "03. വാങ്ക്",
-  "stage2": "4. പ്രസംഗം അറബി",
+  "stage2": "04. പ്രസംഗം അറബി",
   "groupstage1": "19. അറബി സംഘഗാനം",
   "groupstage2": "20. മലയാള സമൂഹ ഗാനം"
  },
@@ -2340,8 +2340,8 @@
   "slug": "machakulam-daras-pullalur",
   "category": "JUNIOR",
   "stage1": "01. ഖിറാഅത്ത്",
-  "stage2": "3. വാങ്ക്",
-  "stage3": "4. പ്രസംഗം അറബി",
+  "stage2": "03. വാങ്ക്",
+  "stage3": "04. പ്രസംഗം അറബി",
   "offstage1": "26. പോസ്റ്റര്‍ ഡിസൈനിംഗ്"
  },
  {
@@ -2409,7 +2409,7 @@
   "slug": "machakulam-daras-pullalur",
   "category": "SENIOR",
   "stage1": "03. വാങ്ക്",
-  "stage2": "5. വഅ്‌ള്"
+  "stage2": "05. വഅ്‌ള്"
  },
  {
   "code": "CS619",
@@ -2420,7 +2420,7 @@
   "slug": "machakulam-daras-pullalur",
   "category": "SENIOR",
   "stage1": "01. ഖിറാഅത്ത്",
-  "stage2": "6. പ്രസംഗം മലയാളം"
+  "stage2": "06. പ്രസംഗം മലയാളം"
  },
  {
   "code": "CJ226",
@@ -2856,8 +2856,8 @@
   "slug": "manbau'ssa'ada-dars-maniyambalam",
   "category": "JUNIOR",
   "stage1": "01. ഖിറാഅത്ത്",
-  "stage2": "2. ഹിഫ്‌ള്",
-  "stage3": "9. ഗാനം അറബി"
+  "stage2": "02. ഹിഫ്‌ള്",
+  "stage3": "09. ഗാനം അറബി"
  },
  {
   "code": "CJ218",
@@ -2882,7 +2882,7 @@
   "slug": "manbau'ssa'ada-dars-maniyambalam",
   "category": "JUNIOR",
   "stage1": "06. പ്രസംഗം ഉറുദു",
-  "stage2": "7. പ്രസംഗം ഇംഗ്ലീഷ്",
+  "stage2": "07. പ്രസംഗം ഇംഗ്ലീഷ്",
   "stage3": "16. പദപ്പയറ്റ് അറബി"
  },
  {
@@ -2894,7 +2894,7 @@
   "slug": "manbau'ssa'ada-dars-maniyambalam",
   "category": "JUNIOR",
   "stage1": "04. പ്രസംഗം അറബി",
-  "stage2": "5. പ്രസംഗം മലയാളം",
+  "stage2": "05. പ്രസംഗം മലയാളം",
   "stage3": "13. കഥ പറച്ചില്‍",
   "offstage1": "28. തശ്കീല്‍",
   "offstage2": "29. മലയാള പ്രബന്ധം",
@@ -2967,7 +2967,7 @@
   "slug": "manbau'ssa'ada-dars-maniyambalam",
   "category": "SENIOR",
   "stage1": "01. ഖിറാഅത്ത്",
-  "stage2": "3. വാങ്ക്",
+  "stage2": "03. വാങ്ക്",
   "stage3": "10. ഖുഥ്ബ",
   "offstage1": "24. ഖത്തുറുഖഈ"
  },
@@ -2980,7 +2980,7 @@
   "slug": "manbau'ssa'ada-dars-maniyambalam",
   "category": "SENIOR",
   "stage1": "02. ഹിഫ്‌ള്",
-  "stage2": "7. പ്രസംഗം അറബി",
+  "stage2": "07. പ്രസംഗം അറബി",
   "offstage1": "26. വിവര്‍ത്തനം ",
   "offstage2": "27. വിവര്‍ത്തനം ",
   "offstage3": "37. പദ സമ്പാദനം"
@@ -3112,7 +3112,7 @@
   "slug": "noorul-huda-dars-cherumoth",
   "category": "JUNIOR",
   "stage1": "02. ഹിഫ്‌ള്",
-  "stage2": "4. പ്രസംഗം അറബി",
+  "stage2": "04. പ്രസംഗം അറബി",
   "offstage1": "23. മെമ്മറി ടെസ്റ്റ്",
   "offstage2": "29. മലയാള പ്രബന്ധം"
  },
@@ -3178,7 +3178,7 @@
   "slug": "noorul-huda-dars-cherumoth",
   "category": "SENIOR",
   "stage1": "03. വാങ്ക്",
-  "stage2": "7. പ്രസംഗം അറബി"
+  "stage2": "07. പ്രസംഗം അറബി"
  },
  {
   "code": "CS645",
@@ -3189,7 +3189,7 @@
   "slug": "noorul-huda-dars-cherumoth",
   "category": "SENIOR",
   "stage1": "01. ഖിറാഅത്ത്",
-  "stage2": "2. ഹിഫ്‌ള്"
+  "stage2": "02. ഹിഫ്‌ള്"
  },
  {
   "code": "CS646",
