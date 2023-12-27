@@ -87,20 +87,7 @@
   "slug": "al-aqsa-dars-chaliyam",
   "category": "JUNIOR",
   "stage2": "10. മാപ്പിളപ്പാട്ട്",
-  "stage3": "18. മദ്ഹുന്നബി",
-  "groupstage1": "19. അറബി സംഘഗാനം",
-  "groupstage2": " 20. മലയാള സമൂഹ ഗാനം"
- },
- {
-  "code": "CJ109",
-  "name": "ADHNAN KP FEROK",
-  "darsname": "AL AQSA DARS, CHALIYAM",
-  "darsplace": "CHALIYAM",
-  "zone": "Kozhikode",
-  "slug": "al-aqsa-dars-chaliyam",
-  "category": "JUNIOR",
-  "groupstage1": "19. അറബി സംഘഗാനം",
-  "groupstage2": " 20. മലയാള സമൂഹ ഗാനം"
+  "stage3": "18. മദ്ഹുന്നബി"
  },
  {
   "code": "CJ110",
@@ -197,19 +184,8 @@
   "stage1": "05. വഅ്‌ള്",
   "stage2": "06. പ്രസംഗം മലയാളം",
   "stage3": "10. ഖുഥ്ബ",
-  "groupstage1": "20. പ്രോഗ്രാം സെറ്റിംഗ്",
   "offstage1": "31. റിപ്പോര്‍ട്ടിംഗ്",
   "offstage2": "33. മുദ്രവാക്യ രചന"
- },
- {
-  "code": "CS502",
-  "name": "FAZIL.C NILAMBUR",
-  "darsname": "AL AQSA DARS, CHALIYAM",
-  "darsplace": "CHALIYAM",
-  "zone": "Kozhikode",
-  "slug": "al-aqsa-dars-chaliyam",
-  "category": "SENIOR",
-  "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്"
  },
  {
   "code": "CS503",
@@ -230,8 +206,7 @@
   "zone": "Kozhikode",
   "slug": "al-aqsa-dars-chaliyam",
   "category": "SENIOR",
-  "stage1": "09. പ്രസംഗം ഇംഗ്ലീഷ്",
-  "groupstage1": "20. പ്രോഗ്രാം സെറ്റിംഗ്"
+  "stage1": "09. പ്രസംഗം ഇംഗ്ലീഷ്"
  },
  {
   "code": "CS505",
@@ -240,9 +215,7 @@
   "darsplace": "CHALIYAM",
   "zone": "Kozhikode",
   "slug": "al-aqsa-dars-chaliyam",
-  "category": "SENIOR",
-  "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
-  "groupstage2": " 19. ഖസ്വീദ പാരായണം"
+  "category": "SENIOR"
  },
  {
   "code": "CS506",
@@ -289,11 +262,9 @@
   "category": "SENIOR",
   "stage1": "16. നിമിഷപ്രസംഗം",
   "stage2": "15. പ്രബന്ധാവതരണം",
-  "groupstage1": "20. പ്രോഗ്രാം സെറ്റിംഗ്",
   "offstage1": "32. തലവാചക നിര്‍മ്മാണം",
   "offstage2": "36. അടിക്കുറിപ്പ്",
-  "offstage3": "39. പ്രശ്‌നോത്തരി",
-  "groupoffstage": "40. പത്രനിര്‍മാണം"
+  "offstage3": "39. പ്രശ്‌നോത്തരി"
  },
  {
   "code": "CS510",
@@ -314,8 +285,7 @@
   "zone": "Kozhikode",
   "slug": "al-aqsa-dars-chaliyam",
   "category": "SENIOR",
-  "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
-  "groupstage2": " 19. ഖസ്വീദ പാരായണം"
+  "offstage1": "23. ഖത്തുന്നസ്ഖ്"
  },
  {
   "code": "CS512",
@@ -359,30 +329,9 @@
   "slug": "al-aqsa-dars-chaliyam",
   "category": "SENIOR",
   "stage3": "12. കവിതാലാപനം മലയാളം",
-  "groupstage1": "20. പ്രോഗ്രാം സെറ്റിംഗ്",
   "offstage1": "28. പ്രബന്ധം അറബി",
   "offstage2": "30. പ്രബന്ധം മലയാളം",
   "offstage3": "34. കവിതാ രചന "
- },
- {
-  "code": "CS516",
-  "name": "HABEEB RAHMAN PALAPETTI",
-  "darsname": "AL AQSA DARS, CHALIYAM",
-  "darsplace": "CHALIYAM",
-  "zone": "Kozhikode",
-  "slug": "al-aqsa-dars-chaliyam",
-  "category": "SENIOR",
-  "groupoffstage": "40. പത്രനിര്‍മാണം"
- },
- {
-  "code": "CS517",
-  "name": "NIHAL .C CHALIYAM",
-  "darsname": "AL AQSA DARS, CHALIYAM",
-  "darsplace": "CHALIYAM",
-  "zone": "Kozhikode",
-  "slug": "al-aqsa-dars-chaliyam",
-  "category": "SENIOR",
-  "groupoffstage": "40. പത്രനിര്‍മാണം"
  },
  {
   "code": "CS518",
@@ -393,6 +342,7 @@
   "slug": "al-aqsa-dars-chaliyam",
   "category": "SENIOR",
   "stage1": "17. പാടിപ്പറയല്‍",
+  "stage2": "14. അനൗണ്‍സ്‌മെന്റ്",
   "groupstage1": "20. പ്രോഗ്രാം സെറ്റിംഗ്"
  },
  {
@@ -406,29 +356,8 @@
   "stage1": "07. പ്രസംഗം അറബി"
  },
  {
-  "code": "CS520",
-  "name": "MISHAB M VELLAP",
-  "darsname": "AL AQSA DARS, CHALIYAM",
-  "darsplace": "CHALIYAM",
-  "zone": "Kozhikode",
-  "slug": "al-aqsa-dars-chaliyam",
-  "category": "SENIOR",
-  "groupstage1": "19. ഖസ്വീദ പാരായണം"
- },
- {
   "code": "CS521",
   "name": "FATHAH TRISSUR",
-  "darsname": "AL AQSA DARS, CHALIYAM",
-  "darsplace": "CHALIYAM",
-  "zone": "Kozhikode",
-  "slug": "al-aqsa-dars-chaliyam",
-  "category": "SENIOR",
-  "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
-  "groupstage2": " 19. ഖസ്വീദ പാരായണം"
- },
- {
-  "code": "CS522",
-  "name": "MUHAMMED FADHIL TRIKKARIPUR",
   "darsname": "AL AQSA DARS, CHALIYAM",
   "darsplace": "CHALIYAM",
   "zone": "Kozhikode",
@@ -456,8 +385,7 @@
   "slug": "al-mahlarathul-jalaliyya-dars-villiappalli",
   "category": "JUNIOR",
   "stage1": "09. ഗാനം അറബി",
-  "groupstage1": "19. അറബി സംഘഗാനം",
-  "groupstage2": " 20. മലയാള സമൂഹ ഗാനം"
+  "groupstage1": "19. അറബി സംഘഗാനം"
  },
  {
   "code": "CJ120",
@@ -478,9 +406,7 @@
   "zone": "Kozhikode",
   "slug": "al-mahlarathul-jalaliyya-dars-villiappalli",
   "category": "JUNIOR",
-  "stage1": "03. വാങ്ക്",
-  "groupstage1": "19. അറബി സംഘഗാനം",
-  "groupstage2": " 20. മലയാള സമൂഹ ഗാനം"
+  "stage1": "03. വാങ്ക്"
  },
  {
   "code": "CJ122",
@@ -557,7 +483,6 @@
   "stage1": "01. ഖിറാഅത്ത്",
   "stage2": "02. ഹിഫ്‌ള്",
   "stage3": "10. മാപ്പിളപ്പാട്ട്",
-  "groupstage1": "19. അറബി സംഘഗാനം",
   "groupstage2": " 20. മലയാള സമൂഹ ഗാനം",
   "offstage1": "24. ഖത്തുന്നസ്ഖ്",
   "offstage2": "25. കേട്ടെഴുത്ത് ",
@@ -589,7 +514,6 @@
   "stage1": "04. ക്ലാസ് അവതരണം",
   "stage2": "05. വഅ്‌ള്",
   "stage3": "07. പ്രസംഗം അറബി",
-  "groupstage1": "19. ഖസ്വീദ പാരായണം",
   "groupstage2": " 20. പ്രോഗ്രാം സെറ്റിംഗ്",
   "offstage1": "25. വിവര്‍ത്തനം "
  },
@@ -614,8 +538,7 @@
   "zone": "Kozhikode",
   "slug": "al-mahlarathul-jalaliyya-dars-villiappalli",
   "category": "SENIOR",
-  "stage1": "13. മുശാഅറ",
-  "groupoffstage": "40. പത്രനിര്‍മാണം"
+  "stage1": "13. മുശാഅറ"
  },
  {
   "code": "CS526",
@@ -625,12 +548,9 @@
   "zone": "Kozhikode",
   "slug": "al-mahlarathul-jalaliyya-dars-villiappalli",
   "category": "SENIOR",
-  "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
-  "groupstage2": " 19. ഖസ്വീദ പാരായണം",
   "offstage1": "21. അറബിക് കാലിഗ്രഫി",
   "offstage2": "22. പോസ്റ്റര്‍ ഡിസൈനിംഗ്",
-  "offstage3": "23. ഖത്തുന്നസ്ഖ്",
-  "groupoffstage": "40. പത്രനിര്‍മാണം"
+  "offstage3": "23. ഖത്തുന്നസ്ഖ്"
  },
  {
   "code": "CS527",
@@ -657,7 +577,6 @@
   "stage1": "02. ഹിഫ്‌ള്",
   "stage2": "08. പ്രസംഗം ഉറുദു",
   "stage3": "16. നിമിഷപ്രസംഗം",
-  "groupstage1": "20. പ്രോഗ്രാം സെറ്റിംഗ്",
   "offstage1": "26. വിവര്‍ത്തനം ",
   "offstage2": "27. വിവര്‍ത്തനം ",
   "offstage3": "37. പദ സമ്പാദനം"
@@ -671,8 +590,6 @@
   "slug": "al-mahlarathul-jalaliyya-dars-villiappalli",
   "category": "SENIOR",
   "stage1": "15. പ്രബന്ധാവതരണം",
-  "groupstage1": "19. ഖസ്വീദ പാരായണം",
-  "groupstage2": " 20. പ്രോഗ്രാം സെറ്റിംഗ്",
   "offstage1": "30. പ്രബന്ധം മലയാളം",
   "offstage2": "31. റിപ്പോര്‍ട്ടിംഗ്",
   "offstage3": "36. അടിക്കുറിപ്പ്",
@@ -688,7 +605,6 @@
   "category": "SENIOR",
   "stage1": "06. പ്രസംഗം മലയാളം",
   "stage2": "14. അനൗണ്‍സ്‌മെന്റ്",
-  "groupstage1": "20. പ്രോഗ്രാം സെറ്റിംഗ്",
   "offstage1": "32. തലവാചക നിര്‍മ്മാണം",
   "offstage2": "33. മുദ്രവാക്യ രചന"
  },
@@ -700,8 +616,7 @@
   "zone": "Kozhikode",
   "slug": "al-mahlarathul-jalaliyya-dars-villiappalli",
   "category": "SENIOR",
-  "stage1": "09. പ്രസംഗം ഇംഗ്ലീഷ്",
-  "groupstage1": "20. പ്രോഗ്രാം സെറ്റിംഗ്"
+  "stage1": "09. പ്രസംഗം ഇംഗ്ലീഷ്"
  },
  {
   "code": "CS532",
@@ -720,9 +635,7 @@
   "darsplace": "VILLIAPPALLI",
   "zone": "Kozhikode",
   "slug": "al-mahlarathul-jalaliyya-dars-villiappalli",
-  "category": "SENIOR",
-  "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
-  "groupstage2": " 19. ഖസ്വീദ പാരായണം"
+  "category": "SENIOR"
  },
  {
   "code": "CS534",
@@ -732,8 +645,7 @@
   "zone": "Kozhikode",
   "slug": "al-mahlarathul-jalaliyya-dars-villiappalli",
   "category": "SENIOR",
-  "offstage1": "24. ഖത്തുറുഖഈ",
-  "groupoffstage": "40. പത്രനിര്‍മാണം"
+  "offstage1": "24. ഖത്തുറുഖഈ"
  },
  {
   "code": "CS535",
@@ -762,8 +674,7 @@
   "darsplace": "VILLIAPPALLI",
   "zone": "Kozhikode",
   "slug": "al-mahlarathul-jalaliyya-dars-villiappalli",
-  "category": "SENIOR",
-  "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്"
+  "category": "SENIOR"
  },
  {
   "code": "CS538",
@@ -772,8 +683,7 @@
   "darsplace": "VILLIAPPALLI",
   "zone": "Kozhikode",
   "slug": "al-mahlarathul-jalaliyya-dars-villiappalli",
-  "category": "SENIOR",
-  "groupoffstage": "40. പത്രനിര്‍മാണം"
+  "category": "SENIOR"
  },
  {
   "code": "CS539",
@@ -783,8 +693,7 @@
   "zone": "Kozhikode",
   "slug": "al-mahlarathul-jalaliyya-dars-villiappalli",
   "category": "SENIOR",
-  "stage1": "03. വാങ്ക്",
-  "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്"
+  "stage1": "03. വാങ്ക്"
  },
  {
   "code": "CS540",
@@ -1042,17 +951,6 @@
   "stage2": "17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്"
  },
  {
-  "code": "CJ140",
-  "name": "MUHAMMAD UNAIS",
-  "darsname": "DARUL HIDAYA DARS KALARANTHIRI",
-  "darsplace": "KALARANTHIRI",
-  "zone": "Kozhikode",
-  "slug": "darul-hidaya-dars-kalaranthiri",
-  "category": "JUNIOR",
-  "groupstage1": "19. അറബി സംഘഗാനം",
-  "groupstage2": " 20. മലയാള സമൂഹ ഗാനം"
- },
- {
   "code": "CJ141",
   "name": "MUHAMMED JUMAN V T PANNIPPARA",
   "darsname": "DARUL HIDAYA DARS KALARANTHIRI",
@@ -1076,9 +974,7 @@
   "zone": "Kozhikode",
   "slug": "darul-hidaya-dars-kalaranthiri",
   "category": "JUNIOR",
-  "stage1": "15. മുശാഅറ",
-  "groupstage1": "19. അറബി സംഘഗാനം",
-  "groupstage2": " 20. മലയാള സമൂഹ ഗാനം"
+  "stage1": "15. മുശാഅറ"
  },
  {
   "code": "CJ143",
@@ -1099,9 +995,7 @@
   "slug": "darul-hidaya-dars-kalaranthiri",
   "category": "JUNIOR",
   "stage2": "09. ഗാനം അറബി",
-  "stage3": "18. മദ്ഹുന്നബി",
-  "groupstage1": "19. അറബി സംഘഗാനം",
-  "groupstage2": " 20. മലയാള സമൂഹ ഗാനം"
+  "stage3": "18. മദ്ഹുന്നബി"
  },
  {
   "code": "CJ145",
@@ -1115,17 +1009,6 @@
   "stage2": "11. മാലപ്പാട്ട്"
  },
  {
-  "code": "CJ146",
-  "name": "ABDULLA KANNUR",
-  "darsname": "DARUL HIDAYA DARS KALARANTHIRI",
-  "darsplace": "KALARANTHIRI",
-  "zone": "Kozhikode",
-  "slug": "darul-hidaya-dars-kalaranthiri",
-  "category": "JUNIOR",
-  "groupstage1": "19. അറബി സംഘഗാനം",
-  "groupstage2": " 20. മലയാള സമൂഹ ഗാനം"
- },
- {
   "code": "CS545",
   "name": "MUHAMMAD IHSAN KOYILANDI",
   "darsname": "DARUL HIDAYA DARS KALARANTHIRI",
@@ -1136,16 +1019,6 @@
   "stage1": "09. പ്രസംഗം ഇംഗ്ലീഷ്"
  },
  {
-  "code": "CS546",
-  "name": "THAHIR ALI MANJERI",
-  "darsname": "DARUL HIDAYA DARS KALARANTHIRI",
-  "darsplace": "KALARANTHIRI",
-  "zone": "Kozhikode",
-  "slug": "darul-hidaya-dars-kalaranthiri",
-  "category": "SENIOR",
-  "groupstage1": "20. പ്രോഗ്രാം സെറ്റിംഗ്"
- },
- {
   "code": "CS547",
   "name": "MUHAMMED IRFAN POONATH",
   "darsname": "DARUL HIDAYA DARS KALARANTHIRI",
@@ -1153,10 +1026,10 @@
   "zone": "Kozhikode",
   "slug": "darul-hidaya-dars-kalaranthiri",
   "category": "SENIOR",
-  "groupstage1": "20. പ്രോഗ്രാം സെറ്റിംഗ്",
   "offstage1": "30. പ്രബന്ധം മലയാളം",
   "offstage2": "32. തലവാചക നിര്‍മ്മാണം",
-  "groupoffstage": "40. പത്രനിര്‍മാണം"
+  "groupoffstage": "40. പത്രനിര്‍മാണം",
+  "groupstage3": "20. പ്രോഗ്രാം സെറ്റിംഗ്"
  },
  {
   "code": "CS548",
@@ -1176,8 +1049,7 @@
   "zone": "Kozhikode",
   "slug": "darul-hidaya-dars-kalaranthiri",
   "category": "SENIOR",
-  "offstage2": "24. ഖത്തുറുഖഈ",
-  "groupoffstage": "40. പത്രനിര്‍മാണം"
+  "offstage2": "24. ഖത്തുറുഖഈ"
  },
  {
   "code": "CS550",
@@ -1187,10 +1059,8 @@
   "zone": "Kozhikode",
   "slug": "darul-hidaya-dars-kalaranthiri",
   "category": "SENIOR",
-  "groupstage1": "20. പ്രോഗ്രാം സെറ്റിംഗ്",
   "offstage2": "36. അടിക്കുറിപ്പ്",
-  "offstage3": "31. റിപ്പോര്‍ട്ടിംഗ്",
-  "groupoffstage": "40. പത്രനിര്‍മാണം"
+  "offstage3": "31. റിപ്പോര്‍ട്ടിംഗ്"
  },
  {
   "code": "CS551",
@@ -1201,7 +1071,6 @@
   "slug": "darul-hidaya-dars-kalaranthiri",
   "category": "SENIOR",
   "stage2": "16. നിമിഷപ്രസംഗം",
-  "groupstage1": "20. പ്രോഗ്രാം സെറ്റിംഗ്",
   "offstage1": "34. കവിതാ രചന ",
   "offstage2": "28. പ്രബന്ധം അറബി",
   "offstage3": "35. നിഘണ്ടു നിര്‍മ്മാണം "
@@ -1214,9 +1083,6 @@
   "zone": "Kozhikode",
   "slug": "darul-hidaya-dars-kalaranthiri",
   "category": "SENIOR",
-  "stage3": "05. വഅ്‌ള്",
-  "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
-  "groupstage2": " 19. ഖസ്വീദ പാരായണം",
   "offstage1": "39. പ്രശ്‌നോത്തരി"
  },
  {
@@ -1254,8 +1120,7 @@
   "stage1": "06. പ്രസംഗം മലയാളം",
   "stage3": "15. പ്രബന്ധാവതരണം",
   "groupstage1": "20. പ്രോഗ്രാം സെറ്റിംഗ്",
-  "offstage1": "33. മുദ്രവാക്യ രചന",
-  "groupoffstage": "40. പത്രനിര്‍മാണം"
+  "offstage1": "33. മുദ്രവാക്യ രചന"
  },
  {
   "code": "CS556",
@@ -1269,14 +1134,13 @@
  },
  {
   "code": "CS557",
-  "name": "MUHAMMAD RAEES RAMANATTUKARA",
+  "name": "MABROOK TIRUR",
   "darsname": "DARUL HIDAYA DARS KALARANTHIRI",
   "darsplace": "KALARANTHIRI",
   "zone": "Kozhikode",
   "slug": "darul-hidaya-dars-kalaranthiri",
   "category": "SENIOR",
-  "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
-  "groupstage2": " 19. ഖസ്വീദ പാരായണം"
+  "stage3": "05. വഅ്‌ള്"
  },
  {
   "code": "CS558",
@@ -1288,28 +1152,6 @@
   "category": "SENIOR",
   "stage1": "08. പ്രസംഗം ഉറുദു",
   "stage2": "14. അനൗണ്‍സ്‌മെന്റ്"
- },
- {
-  "code": "CS559",
-  "name": "MUHAMMAD SWALIH KAVANUR",
-  "darsname": "DARUL HIDAYA DARS KALARANTHIRI",
-  "darsplace": "KALARANTHIRI",
-  "zone": "Kozhikode",
-  "slug": "darul-hidaya-dars-kalaranthiri",
-  "category": "SENIOR",
-  "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
-  "groupstage2": " 19. ഖസ്വീദ പാരായണം"
- },
- {
-  "code": "CS560",
-  "name": "MUHAMMAD NIYAS KIZHISSERI",
-  "darsname": "DARUL HIDAYA DARS KALARANTHIRI",
-  "darsplace": "KALARANTHIRI",
-  "zone": "Kozhikode",
-  "slug": "darul-hidaya-dars-kalaranthiri",
-  "category": "SENIOR",
-  "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
-  "groupstage2": " 19. ഖസ്വീദ പാരായണം"
  },
  {
   "code": "CS561",
@@ -1338,16 +1180,6 @@
   "groupstage2": " 19. ഖസ്വീദ പാരായണം",
   "offstage1": "22. പോസ്റ്റര്‍ ഡിസൈനിംഗ്",
   "offstage2": "21. അറബിക് കാലിഗ്രഫി"
- },
- {
-  "code": "CS563",
-  "name": "THAHIR ALI MANJEERI",
-  "darsname": "DARUL HIDAYA DARS KALARANTHIRI",
-  "darsplace": "KALARANTHIRI",
-  "zone": "Kozhikode",
-  "slug": "darul-hidaya-dars-kalaranthiri",
-  "category": "SENIOR",
-  "groupstage1": "20. പ്രോഗ്രാം സെറ്റിംഗ്"
  },
  {
   "code": "CJ147",
@@ -1973,8 +1805,7 @@
   "category": "JUNIOR",
   "stage1": "01. ഖിറാഅത്ത്",
   "stage2": "03. വാങ്ക്",
-  "stage3": "10. മാപ്പിളപ്പാട്ട്",
-  "groupstage1": "19. അറബി സംഘഗാനം"
+  "stage3": "10. മാപ്പിളപ്പാട്ട്"
  },
  {
   "code": "CJ170",
@@ -1994,21 +1825,7 @@
   "zone": "Kozhikode",
   "slug": "ihsan-dars-perumugham",
   "category": "JUNIOR",
-  "groupstage1": "19. അറബി സംഘഗാനം",
-  "groupstage2": " 20. മലയാള സമൂഹ ഗാനം",
   "offstage1": "28. തശ്കീല്‍"
- },
- {
-  "code": "CJ172",
-  "name": "MUHAMMED SHAHAL",
-  "darsname": "IHSAN DARS PERUMUGHAM",
-  "darsplace": "PERUMUGHAM",
-  "zone": "Kozhikode",
-  "slug": "ihsan-dars-perumugham",
-  "category": "JUNIOR",
-  "stage1": "09. ഗാനം അറബി",
-  "groupstage1": "19. അറബി സംഘഗാനം",
-  "groupstage2": " 20. മലയാള സമൂഹ ഗാനം"
  },
  {
   "code": "CJ173",
@@ -2072,9 +1889,7 @@
   "zone": "Kozhikode",
   "slug": "ihsan-dars-perumugham",
   "category": "JUNIOR",
-  "stage1": "11. മാലപ്പാട്ട്",
-  "groupstage1": "19. അറബി സംഘഗാനം",
-  "groupstage2": " 20. മലയാള സമൂഹ ഗാനം"
+  "stage1": "11. മാലപ്പാട്ട്"
  },
  {
   "code": "CJ179",
@@ -2094,8 +1909,7 @@
   "zone": "Kozhikode",
   "slug": "ihsan-dars-perumugham",
   "category": "JUNIOR",
-  "stage1": "08. ഗ്രന്ഥവായന",
-  "groupstage1": "20. മലയാള സമൂഹ ഗാനം"
+  "stage1": "08. ഗ്രന്ഥവായന"
  },
  {
   "code": "CJ181",
@@ -2139,18 +1953,6 @@
   "offstage1": "26. പോസ്റ്റര്‍ ഡിസൈനിംഗ്"
  },
  {
-  "code": "CJ185",
-  "name": "HAFIZ MUHAMMED SINAN CP KONOMPARA",
-  "darsname": "IHSAN DARS PERUMUGHAM",
-  "darsplace": "PERUMUGHAM",
-  "zone": "Kozhikode",
-  "slug": "ihsan-dars-perumugham",
-  "category": "JUNIOR",
-  "groupstage1": "19. അറബി സംഘഗാനം",
-  "groupstage2": " 20. മലയാള സമൂഹ ഗാനം",
-  "offstage1": "28. തശ്കീല്‍"
- },
- {
   "code": "CJ186",
   "name": "HAFIZ ABID P ARIMBRA",
   "darsname": "IHSAN DARS PERUMUGHAM",
@@ -2171,6 +1973,7 @@
   "category": "JUNIOR",
   "stage1": "12. ഗാനം ഉറുദു",
   "stage2": "18. മദ്ഹുന്നബി",
+  "stage3": "09. ഗാനം അറബി",
   "groupstage1": "19. അറബി സംഘഗാനം",
   "groupstage2": " 20. മലയാള സമൂഹ ഗാനം"
  },
@@ -2183,9 +1986,7 @@
   "slug": "ihsan-dars-perumugham",
   "category": "SENIOR",
   "stage1": "01. ഖിറാഅത്ത്",
-  "stage2": "03. വാങ്ക്",
-  "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
-  "groupstage2": " 19. ഖസ്വീദ പാരായണം"
+  "stage2": "03. വാങ്ക്"
  },
  {
   "code": "CS594",
@@ -2206,10 +2007,9 @@
   "slug": "ihsan-dars-perumugham",
   "category": "SENIOR",
   "stage1": "06. പ്രസംഗം മലയാളം",
-  "stage2": "16. നിമിഷപ്രസംഗം",
-  "groupstage1": "20. പ്രോഗ്രാം സെറ്റിംഗ്",
   "offstage1": "34. കവിതാ രചന ",
-  "offstage2": "35. നിഘണ്ടു നിര്‍മ്മാണം "
+  "offstage2": "35. നിഘണ്ടു നിര്‍മ്മാണം ",
+  "offstage3": "33. മുദ്രവാക്യ രചന"
  },
  {
   "code": "CS596",
@@ -2219,11 +2019,8 @@
   "zone": "Kozhikode",
   "slug": "ihsan-dars-perumugham",
   "category": "SENIOR",
-  "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
-  "groupstage2": " 19. ഖസ്വീദ പാരായണം",
   "offstage1": "22. പോസ്റ്റര്‍ ഡിസൈനിംഗ്",
-  "offstage2": "24. ഖത്തുറുഖഈ",
-  "groupoffstage": "40. പത്രനിര്‍മാണം"
+  "offstage2": "24. ഖത്തുറുഖഈ"
  },
  {
   "code": "CS597",
@@ -2235,7 +2032,6 @@
   "category": "SENIOR",
   "stage1": "04. ക്ലാസ് അവതരണം",
   "stage2": "11. ഗ്രന്ഥ വായന",
-  "groupstage1": "20. പ്രോഗ്രാം സെറ്റിംഗ്",
   "offstage1": "25. വിവര്‍ത്തനം ",
   "offstage2": "37. പദ സമ്പാദനം",
   "offstage3": "38. തശ്കീല്‍"
@@ -2261,8 +2057,7 @@
   "slug": "ihsan-dars-perumugham",
   "category": "SENIOR",
   "offstage1": "32. തലവാചക നിര്‍മ്മാണം",
-  "offstage2": "39. പ്രശ്‌നോത്തരി",
-  "groupoffstage": "40. പത്രനിര്‍മാണം"
+  "offstage2": "39. പ്രശ്‌നോത്തരി"
  },
  {
   "code": "CS600",
@@ -2272,9 +2067,7 @@
   "zone": "Kozhikode",
   "slug": "ihsan-dars-perumugham",
   "category": "SENIOR",
-  "stage1": "09. പ്രസംഗം ഇംഗ്ലീഷ്",
-  "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
-  "groupstage2": " 19. ഖസ്വീദ പാരായണം"
+  "stage1": "09. പ്രസംഗം ഇംഗ്ലീഷ്"
  },
  {
   "code": "CS601",
@@ -2285,10 +2078,9 @@
   "slug": "ihsan-dars-perumugham",
   "category": "SENIOR",
   "stage1": "15. പ്രബന്ധാവതരണം",
+  "stage2": "16. നിമിഷപ്രസംഗം",
   "groupstage1": "20. പ്രോഗ്രാം സെറ്റിംഗ്",
-  "offstage1": "30. പ്രബന്ധം മലയാളം",
-  "offstage2": "33. മുദ്രവാക്യ രചന",
-  "groupoffstage": "40. പത്രനിര്‍മാണം"
+  "offstage1": "30. പ്രബന്ധം മലയാളം"
  },
  {
   "code": "CS602",
@@ -2298,7 +2090,6 @@
   "zone": "Kozhikode",
   "slug": "ihsan-dars-perumugham",
   "category": "SENIOR",
-  "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
   "offstage1": "27. വിവര്‍ത്തനം ",
   "offstage2": "29. പ്രബന്ധം ഇംഗ്ലീഷ്"
  },
@@ -2310,8 +2101,7 @@
   "zone": "Kozhikode",
   "slug": "ihsan-dars-perumugham",
   "category": "SENIOR",
-  "stage1": "05. വഅ്‌ള്",
-  "groupstage1": "20. പ്രോഗ്രാം സെറ്റിംഗ്"
+  "stage1": "05. വഅ്‌ള്"
  },
  {
   "code": "CS604",
@@ -2323,8 +2113,7 @@
   "category": "SENIOR",
   "stage1": "02. ഹിഫ്‌ള്",
   "stage2": "10. ഖുഥ്ബ",
-  "groupstage1": "19. ഖസ്വീദ പാരായണം",
-  "groupstage2": " 20. പ്രോഗ്രാം സെറ്റിംഗ്"
+  "groupstage1": "19. ഖസ്വീദ പാരായണം"
  },
  {
   "code": "CS605",
@@ -2335,8 +2124,7 @@
   "slug": "ihsan-dars-perumugham",
   "category": "SENIOR",
   "offstage1": "21. അറബിക് കാലിഗ്രഫി",
-  "offstage2": "23. ഖത്തുന്നസ്ഖ്",
-  "groupoffstage": "40. പത്രനിര്‍മാണം"
+  "offstage2": "23. ഖത്തുന്നസ്ഖ്"
  },
  {
   "code": "CS606",
@@ -2369,8 +2157,7 @@
   "slug": "ihsan-dars-perumugham",
   "category": "SENIOR",
   "stage1": "17. പാടിപ്പറയല്‍",
-  "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
-  "groupstage2": " 19. ഖസ്വീദ പാരായണം"
+  "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്"
  },
  {
   "code": "CS609",
@@ -2380,8 +2167,17 @@
   "zone": "Kozhikode",
   "slug": "ihsan-dars-perumugham",
   "category": "SENIOR",
-  "stage1": "07. പ്രസംഗം അറബി",
-  "stage3": "12. കവിതാലാപനം മലയാളം"
+  "stage1": "07. പ്രസംഗം അറബി"
+ },
+ {
+  "code": "CS652",
+  "name": "FASIL KANNUR",
+  "darsname": "IHSAN DARS PERUMUGHAM",
+  "darsplace": "PERUMUGHAM",
+  "zone": "Kozhikode",
+  "slug": "ihsan-dars-perumugham",
+  "category": "SENIOR",
+  "stage1": "12. കവിതാലാപനം മലയാളം"
  },
  {
   "code": "CJ188",
@@ -2436,7 +2232,6 @@
   "stage1": "06. പ്രസംഗം മലയാളം",
   "stage2": "16. നിമിഷപ്രസംഗം",
   "stage3": "17. പാടിപ്പറയല്‍",
-  "groupstage1": "19. ഖസ്വീദ പാരായണം",
   "offstage1": "30. പ്രബന്ധം മലയാളം",
   "offstage2": "37. പദ സമ്പാദനം",
   "offstage3": "33. മുദ്രവാക്യ രചന"
@@ -2450,7 +2245,6 @@
   "slug": "kettungal-dars-kettungal",
   "category": "SENIOR",
   "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
-  "groupstage2": " 19. ഖസ്വീദ പാരായണം",
   "offstage1": "29. പ്രബന്ധം ഇംഗ്ലീഷ് "
  },
  {
@@ -2503,7 +2297,6 @@
   "stage1": "01. ഖിറാഅത്ത്",
   "stage2": "07. പ്രസംഗം അറബി",
   "stage3": "10. ഖുഥ്ബ",
-  "groupstage1": "19. ഖസ്വീദ പാരായണം",
   "offstage1": "21. അറബിക് കാലിഗ്രഫി",
   "offstage2": "22. പോസ്റ്റര്‍ ഡിസൈനിംഗ്",
   "offstage3": "35. നിഘണ്ടു നിര്‍മ്മാണം "
@@ -2559,7 +2352,6 @@
   "zone": "Kozhikode",
   "slug": "machakulam-daras-pullalur",
   "category": "JUNIOR",
-  "groupstage1": "20. മലയാള സമൂഹ ഗാനം",
   "offstage1": "22. സുഡോക്കു",
   "offstage2": " 23. മെമ്മറി ടെസ്റ്റ്"
  },
@@ -2572,8 +2364,7 @@
   "slug": "machakulam-daras-pullalur",
   "category": "JUNIOR",
   "stage1": "05. പ്രസംഗം മലയാളം",
-  "stage2": " 13. കഥ പറച്ചില്‍",
-  "groupstage1": "20. മലയാള സമൂഹ ഗാനം"
+  "stage2": " 13. കഥ പറച്ചില്‍"
  },
  {
   "code": "CJ194",
@@ -2690,7 +2481,6 @@
   "stage2": "10. മാപ്പിളപ്പാട്ട്",
   "stage3": "15. മുശാഅറ",
   "groupstage1": "20. മലയാള സമൂഹ ഗാനം",
-  "groupstage2": "19. അറബി സംഘഗാനം",
   "offstage1": "27. നിഘണ്ടു നിര്‍മ്മാണം",
   "offstage2": "30. പ്രശ്‌നോത്തരി",
   "offstage3": "28. തശ്കീല്‍"
@@ -2738,6 +2528,7 @@
   "category": "JUNIOR",
   "stage1": "18. മദ്ഹുന്നബി",
   "stage2": "12. ഗാനം ഉറുദു",
+  "groupstage2": "19. അറബി സംഘഗാനം",
   "offstage1": "23. മെമ്മറി ടെസ്റ്റ്",
   "offstage2": "22. സുഡോക്കു",
   "offstage3": "29. മലയാള പ്രബന്ധം"
@@ -2795,6 +2586,7 @@
   "stage1": "04. ക്ലാസ് അവതരണം",
   "stage2": "06. പ്രസംഗം മലയാളം",
   "stage3": "14. അനൗണ്‍സ്‌മെന്റ്",
+  "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
   "offstage1": "27. വിവര്‍ത്തനം ",
   "offstage2": "30. പ്രബന്ധം മലയാളം",
   "offstage3": "31. റിപ്പോര്‍ട്ടിംഗ്"
@@ -2844,29 +2636,6 @@
   "offstage3": "37. പദ സമ്പാദനം"
  },
  {
-  "code": "CJ197",
-  "name": "MUHAMMAD ZAHAN THODANUR",
-  "darsname": "MALARAKKAL DARS VILLIAPPALLY",
-  "darsplace": "MALARAKKAL VILLIAPPALLY",
-  "zone": "Kozhikode",
-  "slug": "malarakkal-dars-villiappally",
-  "category": "JUNIOR",
-  "stage1": "06. പ്രസംഗം ഉറുദു",
-  "stage2": " 14. ഗദ്യവായന മലയാളം",
-  "offstage1": "25. കേട്ടെഴുത്ത് "
- },
- {
-  "code": "CJ198",
-  "name": "MUHAMM ZAHAN THODANNUR",
-  "darsname": "MALARAKKAL DARS VILLIAPPALLY",
-  "darsplace": "MALARAKKAL VILLIAPPALLY",
-  "zone": "Kozhikode",
-  "slug": "malarakkal-dars-villiappally",
-  "category": "JUNIOR",
-  "stage1": "06. പ്രസംഗം ഉറുദു",
-  "stage2": " 14. ഗദ്യവായന മലയാളം"
- },
- {
   "code": "CJ199",
   "name": "MUHAMM ZAHAN THODANNUR",
   "darsname": "MALARAKKAL DARS VILLIAPPALLY",
@@ -2877,18 +2646,8 @@
   "stage1": "06. പ്രസംഗം ഉറുദു",
   "stage2": " 14. ഗദ്യവായന മലയാളം",
   "stage3": " 15. മുശാഅറ",
-  "offstage1": "21. ചിത്രരചന "
- },
- {
-  "code": "CJ200",
-  "name": "MUHAMMAD SHAMNAN V C MEPPAYUR",
-  "darsname": "MALARAKKAL DARS VILLIAPPALLY",
-  "darsplace": "MALARAKKAL,VILLIAPPALLI",
-  "zone": "Kozhikode",
-  "slug": "malarakkal-dars-villiappally",
-  "category": "JUNIOR",
-  "stage1": "13. കഥ പറച്ചില്‍",
-  "stage2": "16. പദപ്പയറ്റ് അറബി"
+  "offstage1": "21. ചിത്രരചന ",
+  "offstage2": "25. കേട്ടെഴുത്ത് "
  },
  {
   "code": "CJ201",
@@ -2901,29 +2660,6 @@
   "stage1": "11. മാലപ്പാട്ട്",
   "stage2": "09. ഗാനം അറബി",
   "stage3": "12. ഗാനം ഉറുദു"
- },
- {
-  "code": "CJ202",
-  "name": "MINHAAJ MEPAYYOOR",
-  "darsname": "MALARAKKAL DARS VILLIAPPALLY",
-  "darsplace": "MALARAKKAL VILLIAPPALLY",
-  "zone": "Kozhikode",
-  "slug": "malarakkal-dars-villiappally",
-  "category": "JUNIOR",
-  "stage1": "01. ഖിറാഅത്ത്",
-  "stage2": "03. വാങ്ക്",
-  "stage3": "10. മാപ്പിളപ്പാട്ട്",
-  "offstage1": "21. ചിത്രരചന "
- },
- {
-  "code": "CJ203",
-  "name": "MUHAMMAD JALAL MEPAYYOOR",
-  "darsname": "MALARAKKAL DARS VILLIAPPALLY",
-  "darsplace": "MALARAKKAL VILLIAPPALLY",
-  "zone": "Kozhikode",
-  "slug": "malarakkal-dars-villiappally",
-  "category": "JUNIOR",
-  "stage1": "04. പ്രസംഗം അറബി"
  },
  {
   "code": "CJ204",
@@ -2966,8 +2702,7 @@
   "slug": "malarakkal-dars-villiappally",
   "category": "JUNIOR",
   "stage1": "17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്",
-  "groupstage1": "19. അറബി സംഘഗാനം",
-  "groupstage2": " 20. മലയാള സമൂഹ ഗാനം"
+  "offstage1": "26. പോസ്റ്റര്‍ ഡിസൈനിംഗ്"
  },
  {
   "code": "CJ208",
@@ -2979,8 +2714,6 @@
   "category": "JUNIOR",
   "stage1": "04. പ്രസംഗം അറബി",
   "stage2": "18. മദ്ഹുന്നബി",
-  "groupstage1": "19. അറബി സംഘഗാനം",
-  "groupstage2": " 20. മലയാള സമൂഹ ഗാനം",
   "offstage1": "29. മലയാള പ്രബന്ധം"
  },
  {
@@ -2995,20 +2728,8 @@
   "stage2": "03. വാങ്ക്",
   "stage3": "10. മാപ്പിളപ്പാട്ട്",
   "groupstage1": "19. അറബി സംഘഗാനം",
-  "groupstage2": " 20. മലയാള സമൂഹ ഗാനം"
- },
- {
-  "code": "CJ210",
-  "name": "NASEEH MEPAYYOOR",
-  "darsname": "MALARAKKAL DARS VILLIAPPALLY",
-  "darsplace": "MALARAKKAL VILLIAPPALLY",
-  "zone": "Kozhikode",
-  "slug": "malarakkal-dars-villiappally",
-  "category": "JUNIOR",
-  "stage2": "17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്",
-  "groupstage1": "19. അറബി സംഘഗാനം",
   "groupstage2": " 20. മലയാള സമൂഹ ഗാനം",
-  "offstage1": "26. പോസ്റ്റര്‍ ഡിസൈനിംഗ്"
+  "offstage1": "21. ചിത്രരചന "
  },
  {
   "code": "CS620",
@@ -3060,8 +2781,7 @@
   "category": "JUNIOR",
   "stage1": "12. ഗാനം ഉറുദു",
   "stage2": "13. കഥ പറച്ചില്‍",
-  "stage3": "17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്",
-  "groupstage1": "19. അറബി സംഘഗാനം"
+  "stage3": "17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്"
  },
  {
   "code": "CJ213",
@@ -3074,7 +2794,6 @@
   "stage1": "03. വാങ്ക്",
   "stage2": "06. പ്രസംഗം ഉറുദു",
   "stage3": "14. ഗദ്യവായന മലയാളം",
-  "groupstage1": "19. അറബി സംഘഗാനം",
   "offstage1": "25. കേട്ടെഴുത്ത് "
  },
  {
@@ -3086,7 +2805,6 @@
   "slug": "manarul-huda-dars-makkool-peedika",
   "category": "JUNIOR",
   "stage1": "11. മാലപ്പാട്ട്",
-  "groupstage1": "20. മലയാള സമൂഹ ഗാനം",
   "offstage1": "26. പോസ്റ്റര്‍ ഡിസൈനിംഗ്"
  },
  {
@@ -3112,14 +2830,12 @@
   "stage1": "09. ഗാനം അറബി",
   "stage2": "18. മദ്ഹുന്നബി",
   "stage3": "07. പ്രസംഗം ഇംഗ്ലീഷ്",
-  "groupstage1": "19. അറബി സംഘഗാനം",
-  "groupstage2": " 20. മലയാള സമൂഹ ഗാനം",
   "offstage1": "27. നിഘണ്ടു നിര്‍മ്മാണം",
   "offstage2": "29. മലയാള പ്രബന്ധം"
  },
  {
   "code": "CS622",
-  "name": "ABDULLA BIN SAMEER BIN ABDULLA MAYYANNOOR",
+  "name": "ABDULLA BIN SAMEER",
   "darsname": "MANARUL HUDA DARS MAKKOOL PEEDIKA",
   "darsplace": "MAKKOOL PEEDIKA, VADAKARA",
   "zone": "Kozhikode",
@@ -3372,8 +3088,7 @@
   "slug": "noorul-huda-dars-cherumoth",
   "category": "JUNIOR",
   "stage1": "05. പ്രസംഗം മലയാളം",
-  "stage2": " 14. ഗദ്യവായന മലയാളം",
-  "groupstage1": "19. അറബി സംഘഗാനം"
+  "stage2": " 14. ഗദ്യവായന മലയാളം"
  },
  {
   "code": "CJ239",
@@ -3412,7 +3127,6 @@
   "stage1": "09. ഗാനം അറബി",
   "stage2": " 10. മാപ്പിളപ്പാട്ട്",
   "stage3": " 12. ഗാനം ഉറുദു",
-  "groupstage1": "19. അറബി സംഘഗാനം",
   "offstage1": "22. സുഡോക്കു"
  },
  {
@@ -3464,9 +3178,7 @@
   "slug": "noorul-huda-dars-cherumoth",
   "category": "SENIOR",
   "stage1": "03. വാങ്ക്",
-  "stage2": " 7. പ്രസംഗം അറബി",
-  "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
-  "groupstage2": " 19. ഖസ്വീദ പാരായണം"
+  "stage2": " 7. പ്രസംഗം അറബി"
  },
  {
   "code": "CS645",
@@ -3477,9 +3189,7 @@
   "slug": "noorul-huda-dars-cherumoth",
   "category": "SENIOR",
   "stage1": "01. ഖിറാഅത്ത്",
-  "stage2": " 2. ഹിഫ്‌ള്",
-  "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
-  "groupstage2": " 19. ഖസ്വീദ പാരായണം"
+  "stage2": " 2. ഹിഫ്‌ള്"
  },
  {
   "code": "CS646",
@@ -3489,9 +3199,7 @@
   "zone": "Kozhikode",
   "slug": "noorul-huda-dars-cherumoth",
   "category": "SENIOR",
-  "stage1": "10. ഖുഥ്ബ",
-  "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
-  "groupstage2": " 19. ഖസ്വീദ പാരായണം"
+  "stage1": "10. ഖുഥ്ബ"
  },
  {
   "code": "CS647",
