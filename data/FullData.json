@@ -14,16 +14,6 @@
   "groupstage2": "20. മലയാള സമൂഹ ഗാനം"
  },
  {
-  "code": "CJ102",
-  "name": "AFNAS VADAKARA",
-  "darsname": "AL AQSA DARS, CHALIYAM",
-  "darsplace": "CHALIYAM",
-  "zone": "Kozhikode",
-  "slug": "al-aqsa-dars-chaliyam",
-  "category": "JUNIOR",
-  "stage2": "02. ഹിഫ്‌ള്"
- },
- {
   "code": "CJ103",
   "name": "SHAMMAS TRISSUR",
   "darsname": "AL AQSA DARS, CHALIYAM",
@@ -79,15 +69,26 @@
   "stage1": "07. പ്രസംഗം ഇംഗ്ലീഷ്"
  },
  {
-  "code": "CJ108",
-  "name": "YASEEN KP FEROK",
+  "code": "CJ112",
+  "name": "RAIHAN UGRAPURAM",
   "darsname": "AL AQSA DARS, CHALIYAM",
   "darsplace": "CHALIYAM",
   "zone": "Kozhikode",
   "slug": "al-aqsa-dars-chaliyam",
   "category": "JUNIOR",
-  "stage2": "10. മാപ്പിളപ്പാട്ട്",
-  "stage3": "18. മദ്ഹുന്നബി"
+  "stage1": "08. ഗ്രന്ഥവായന",
+  "offstage1": "28. തശ്കീല്‍",
+  "offstage2": "30. പ്രശ്‌നോത്തരി"
+ },
+ {
+  "code": "CJ111",
+  "name": "JASIL PARAPPANAGADI",
+  "darsname": "AL AQSA DARS, CHALIYAM",
+  "darsplace": "CHALIYAM",
+  "zone": "Kozhikode",
+  "slug": "al-aqsa-dars-chaliyam",
+  "category": "JUNIOR",
+  "stage1": "13. കഥ പറച്ചില്‍"
  },
  {
   "code": "CJ110",
@@ -101,36 +102,36 @@
   "stage2": "15. മുശാഅറ"
  },
  {
-  "code": "CJ111",
-  "name": "JASIL PARAPPANAGADI",
+  "code": "CJ102",
+  "name": "AFNAS VADAKARA",
   "darsname": "AL AQSA DARS, CHALIYAM",
   "darsplace": "CHALIYAM",
   "zone": "Kozhikode",
   "slug": "al-aqsa-dars-chaliyam",
   "category": "JUNIOR",
-  "stage1": "13. കഥ പറച്ചില്‍"
+  "stage2": "02. ഹിഫ്‌ള്"
  },
  {
-  "code": "CJ112",
-  "name": "RAIHAN UGRAPURAM",
+  "code": "CJ108",
+  "name": "YASEEN KP FEROK",
   "darsname": "AL AQSA DARS, CHALIYAM",
   "darsplace": "CHALIYAM",
   "zone": "Kozhikode",
   "slug": "al-aqsa-dars-chaliyam",
   "category": "JUNIOR",
-  "stage1": "08. ഗ്രന്ഥവായന",
-  "offstage1": "28. തശ്കീല്‍",
-  "offstage2": "30. പ്രശ്‌നോത്തരി"
+  "stage2": "10. മാപ്പിളപ്പാട്ട്",
+  "stage3": "18. മദ്ഹുന്നബി"
  },
  {
-  "code": "CJ113",
-  "name": "JIYAD PALAPETTI",
+  "code": "CJ117",
+  "name": "BISHR KOLATHUR",
   "darsname": "AL AQSA DARS, CHALIYAM",
   "darsplace": "CHALIYAM",
   "zone": "Kozhikode",
   "slug": "al-aqsa-dars-chaliyam",
   "category": "JUNIOR",
-  "offstage1": "23. മെമ്മറി ടെസ്റ്റ്"
+  "offstage1": "21. ചിത്രരചന",
+  "offstage2": "26. പോസ്റ്റര്‍ ഡിസൈനിംഗ്"
  },
  {
   "code": "CJ114",
@@ -143,14 +144,14 @@
   "offstage1": "22. സുഡോക്കു"
  },
  {
-  "code": "CJ115",
-  "name": "BASIL",
+  "code": "CJ113",
+  "name": "JIYAD PALAPETTI",
   "darsname": "AL AQSA DARS, CHALIYAM",
   "darsplace": "CHALIYAM",
   "zone": "Kozhikode",
   "slug": "al-aqsa-dars-chaliyam",
   "category": "JUNIOR",
-  "offstage1": "25. കേട്ടെഴുത്ത്"
+  "offstage1": "23. മെമ്മറി ടെസ്റ്റ്"
  },
  {
   "code": "CJ116",
@@ -163,15 +164,37 @@
   "offstage1": "24. ഖത്തുന്നസ്ഖ്"
  },
  {
-  "code": "CJ117",
-  "name": "BISHR KOLATHUR",
+  "code": "CJ115",
+  "name": "BASIL",
   "darsname": "AL AQSA DARS, CHALIYAM",
   "darsplace": "CHALIYAM",
   "zone": "Kozhikode",
   "slug": "al-aqsa-dars-chaliyam",
   "category": "JUNIOR",
-  "offstage1": "21. ചിത്രരചന",
-  "offstage2": "26. പോസ്റ്റര്‍ ഡിസൈനിംഗ്"
+  "offstage1": "25. കേട്ടെഴുത്ത്"
+ },
+ {
+  "code": "CS514",
+  "name": "HAFIZ FASIL MANNARKAD",
+  "darsname": "AL AQSA DARS, CHALIYAM",
+  "darsplace": "CHALIYAM",
+  "zone": "Kozhikode",
+  "slug": "al-aqsa-dars-chaliyam",
+  "category": "SENIOR",
+  "stage1": "01. ഖിറാഅത്ത്",
+  "stage2": "02. ഹിഫ്‌ള്",
+  "stage3": "03. വാങ്ക്"
+ },
+ {
+  "code": "CS513",
+  "name": "ANOOF TP THRIPANACHY",
+  "darsname": "AL AQSA DARS, CHALIYAM",
+  "darsplace": "CHALIYAM",
+  "zone": "Kozhikode",
+  "slug": "al-aqsa-dars-chaliyam",
+  "category": "SENIOR",
+  "stage1": "04. ക്ലാസ് അവതരണം",
+  "offstage1": "35. നിഘണ്ടു നിര്‍മ്മാണം"
  },
  {
   "code": "CS501",
@@ -188,34 +211,14 @@
   "offstage2": "33. മുദ്രവാക്യ രചന"
  },
  {
-  "code": "CS503",
-  "name": "ISAQUE.T PUNJAVI ,KANHANGHAD",
+  "code": "CS519",
+  "name": "ABDULLAH KK PAYYANNOOR",
   "darsname": "AL AQSA DARS, CHALIYAM",
   "darsplace": "CHALIYAM",
   "zone": "Kozhikode",
   "slug": "al-aqsa-dars-chaliyam",
   "category": "SENIOR",
-  "offstage1": "25. വിവര്‍ത്തനം",
-  "offstage2": "26. വിവര്‍ത്തനം"
- },
- {
-  "code": "CS504",
-  "name": "IBTRAHIM ASHF MANJESHWAR",
-  "darsname": "AL AQSA DARS, CHALIYAM",
-  "darsplace": "CHALIYAM",
-  "zone": "Kozhikode",
-  "slug": "al-aqsa-dars-chaliyam",
-  "category": "SENIOR",
-  "stage1": "09. പ്രസംഗം ഇംഗ്ലീഷ്"
- },
- {
-  "code": "CS505",
-  "name": "SHAHEER CHEMBRAKANAM",
-  "darsname": "AL AQSA DARS, CHALIYAM",
-  "darsplace": "CHALIYAM",
-  "zone": "Kozhikode",
-  "slug": "al-aqsa-dars-chaliyam",
-  "category": "SENIOR"
+  "stage1": "07. പ്രസംഗം അറബി"
  },
  {
   "code": "CS506",
@@ -226,6 +229,16 @@
   "slug": "al-aqsa-dars-chaliyam",
   "category": "SENIOR",
   "stage1": "08. പ്രസംഗം ഉറുദു"
+ },
+ {
+  "code": "CS504",
+  "name": "IBTRAHIM ASHF MANJESHWAR",
+  "darsname": "AL AQSA DARS, CHALIYAM",
+  "darsplace": "CHALIYAM",
+  "zone": "Kozhikode",
+  "slug": "al-aqsa-dars-chaliyam",
+  "category": "SENIOR",
+  "stage1": "09. പ്രസംഗം ഇംഗ്ലീഷ്"
  },
  {
   "code": "CS507",
@@ -241,16 +254,15 @@
   "offstage3": "37. പദ സമ്പാദനം"
  },
  {
-  "code": "CS508",
-  "name": "FASIL AG KUNNUMKAI",
+  "code": "CS510",
+  "name": "AFNU BALUSHERY",
   "darsname": "AL AQSA DARS, CHALIYAM",
   "darsplace": "CHALIYAM",
   "zone": "Kozhikode",
   "slug": "al-aqsa-dars-chaliyam",
   "category": "SENIOR",
-  "offstage1": "21. അറബിക് കാലിഗ്രഫി",
-  "offstage2": "22. പോസ്റ്റര്‍ ഡിസൈനിംഗ്",
-  "groupoffstage": "40. പത്രനിര്‍മാണം"
+  "stage1": "13. മുശാഅറ",
+  "offstage1": "38. തശ്കീല്‍"
  },
  {
   "code": "CS509",
@@ -267,15 +279,41 @@
   "offstage3": "39. പ്രശ്‌നോത്തരി"
  },
  {
-  "code": "CS510",
-  "name": "AFNU BALUSHERY",
+  "code": "CS518",
+  "name": "FAYIZ MAVANDIYOOR",
   "darsname": "AL AQSA DARS, CHALIYAM",
   "darsplace": "CHALIYAM",
   "zone": "Kozhikode",
   "slug": "al-aqsa-dars-chaliyam",
   "category": "SENIOR",
-  "stage1": "13. മുശാഅറ",
-  "offstage1": "38. തശ്കീല്‍"
+  "stage1": "17. പാടിപ്പറയല്‍",
+  "stage2": "14. അനൗണ്‍സ്‌മെന്റ്",
+  "groupstage1": "20. പ്രോഗ്രാം സെറ്റിംഗ്"
+ },
+ {
+  "code": "CS515",
+  "name": "SAYYID AMEEN THANGHAL VT VALANJERI",
+  "darsname": "AL AQSA DARS, CHALIYAM",
+  "darsplace": "CHALIYAM",
+  "zone": "Kozhikode",
+  "slug": "al-aqsa-dars-chaliyam",
+  "category": "SENIOR",
+  "stage3": "12. കവിതാലാപനം മലയാളം",
+  "offstage1": "28. പ്രബന്ധം അറബി",
+  "offstage2": "30. പ്രബന്ധം മലയാളം",
+  "offstage3": "34. കവിതാ രചന"
+ },
+ {
+  "code": "CS508",
+  "name": "FASIL AG KUNNUMKAI",
+  "darsname": "AL AQSA DARS, CHALIYAM",
+  "darsplace": "CHALIYAM",
+  "zone": "Kozhikode",
+  "slug": "al-aqsa-dars-chaliyam",
+  "category": "SENIOR",
+  "offstage1": "21. അറബിക് കാലിഗ്രഫി",
+  "offstage2": "22. പോസ്റ്റര്‍ ഡിസൈനിംഗ്",
+  "groupoffstage": "40. പത്രനിര്‍മാണം"
  },
  {
   "code": "CS511",
@@ -298,62 +336,15 @@
   "offstage1": "24. ഖത്തുറുഖഈ"
  },
  {
-  "code": "CS513",
-  "name": "ANOOF TP THRIPANACHY",
+  "code": "CS503",
+  "name": "ISAQUE.T PUNJAVI ,KANHANGHAD",
   "darsname": "AL AQSA DARS, CHALIYAM",
   "darsplace": "CHALIYAM",
   "zone": "Kozhikode",
   "slug": "al-aqsa-dars-chaliyam",
   "category": "SENIOR",
-  "stage1": "04. ക്ലാസ് അവതരണം",
-  "offstage1": "35. നിഘണ്ടു നിര്‍മ്മാണം"
- },
- {
-  "code": "CS514",
-  "name": "HAFIZ FASIL MANNARKAD",
-  "darsname": "AL AQSA DARS, CHALIYAM",
-  "darsplace": "CHALIYAM",
-  "zone": "Kozhikode",
-  "slug": "al-aqsa-dars-chaliyam",
-  "category": "SENIOR",
-  "stage1": "01. ഖിറാഅത്ത്",
-  "stage2": "02. ഹിഫ്‌ള്",
-  "stage3": "03. വാങ്ക്"
- },
- {
-  "code": "CS515",
-  "name": "SAYYID AMEEN THANGHAL VT VALANJERI",
-  "darsname": "AL AQSA DARS, CHALIYAM",
-  "darsplace": "CHALIYAM",
-  "zone": "Kozhikode",
-  "slug": "al-aqsa-dars-chaliyam",
-  "category": "SENIOR",
-  "stage3": "12. കവിതാലാപനം മലയാളം",
-  "offstage1": "28. പ്രബന്ധം അറബി",
-  "offstage2": "30. പ്രബന്ധം മലയാളം",
-  "offstage3": "34. കവിതാ രചന"
- },
- {
-  "code": "CS518",
-  "name": "FAYIZ MAVANDIYOOR",
-  "darsname": "AL AQSA DARS, CHALIYAM",
-  "darsplace": "CHALIYAM",
-  "zone": "Kozhikode",
-  "slug": "al-aqsa-dars-chaliyam",
-  "category": "SENIOR",
-  "stage1": "17. പാടിപ്പറയല്‍",
-  "stage2": "14. അനൗണ്‍സ്‌മെന്റ്",
-  "groupstage1": "20. പ്രോഗ്രാം സെറ്റിംഗ്"
- },
- {
-  "code": "CS519",
-  "name": "ABDULLAH KK PAYYANNOOR",
-  "darsname": "AL AQSA DARS, CHALIYAM",
-  "darsplace": "CHALIYAM",
-  "zone": "Kozhikode",
-  "slug": "al-aqsa-dars-chaliyam",
-  "category": "SENIOR",
-  "stage1": "07. പ്രസംഗം അറബി"
+  "offstage1": "25. വിവര്‍ത്തനം",
+  "offstage2": "26. വിവര്‍ത്തനം"
  },
  {
   "code": "CS521",
@@ -367,36 +358,21 @@
   "groupstage2": "19. ഖസ്വീദ പാരായണം"
  },
  {
-  "code": "CJ118",
-  "name": "HAFIZ MUHAMMED RISHAN MP. THIRUVALLUR",
+  "code": "CJ128",
+  "name": "HAFIZ MUHAMMED SINAN MEPPAYYUR",
   "darsname": "AL MAHLARATHUL JALALIYYA DARS VILLIAPPALLI",
   "darsplace": "VILLIAPPALLI",
   "zone": "Kozhikode",
   "slug": "al-mahlarathul-jalaliyya-dars-villiappalli",
   "category": "JUNIOR",
-  "stage1": "04. പ്രസംഗം അറബി"
- },
- {
-  "code": "CJ119",
-  "name": "HAFIZ MUHAMMED ANJUM THIRUVALLUR",
-  "darsname": "AL MAHLARATHUL JALALIYYA DARS VILLIAPPALLI",
-  "darsplace": "VILLIAPPALLI",
-  "zone": "Kozhikode",
-  "slug": "al-mahlarathul-jalaliyya-dars-villiappalli",
-  "category": "JUNIOR",
-  "stage1": "09. ഗാനം അറബി",
-  "groupstage1": "19. അറബി സംഘഗാനം"
- },
- {
-  "code": "CJ120",
-  "name": "MUHAMMED RASHAD THOTTILPALAM",
-  "darsname": "AL MAHLARATHUL JALALIYYA DARS VILLIAPPALLI",
-  "darsplace": "VILLIAPPALLI",
-  "zone": "Kozhikode",
-  "slug": "al-mahlarathul-jalaliyya-dars-villiappalli",
-  "category": "JUNIOR",
-  "offstage1": "29. മലയാള പ്രബന്ധം",
-  "offstage2": "21. ചിത്രരചന"
+  "stage1": "01. ഖിറാഅത്ത്",
+  "stage2": "02. ഹിഫ്‌ള്",
+  "stage3": "10. മാപ്പിളപ്പാട്ട്",
+  "groupstage1": "19. അറബി സംഘഗാനം",
+  "groupstage2": "20. മലയാള സമൂഹ ഗാനം",
+  "offstage1": "24. ഖത്തുന്നസ്ഖ്",
+  "offstage2": "25. കേട്ടെഴുത്ത്",
+  "offstage3": "26. പോസ്റ്റര്‍ ഡിസൈനിംഗ്"
  },
  {
   "code": "CJ121",
@@ -409,16 +385,29 @@
   "stage1": "03. വാങ്ക്"
  },
  {
-  "code": "CJ122",
-  "name": "HAFIZ SHAMIL ABDULLA THIRUVALLUR",
+  "code": "CJ118",
+  "name": "HAFIZ MUHAMMED RISHAN MP. THIRUVALLUR",
   "darsname": "AL MAHLARATHUL JALALIYYA DARS VILLIAPPALLI",
   "darsplace": "VILLIAPPALLI",
   "zone": "Kozhikode",
   "slug": "al-mahlarathul-jalaliyya-dars-villiappalli",
   "category": "JUNIOR",
-  "stage1": "11. മാലപ്പാട്ട്",
-  "stage2": "12. ഗാനം ഉറുദു",
-  "stage3": "18. മദ്ഹുന്നബി"
+  "stage1": "04. പ്രസംഗം അറബി"
+ },
+ {
+  "code": "CJ129",
+  "name": "MUHAMMED AFRAH .AYANCHERI",
+  "darsname": "AL MAHLARATHUL JALALIYYA DARS VILLIAPPALLI",
+  "darsplace": "VILLIAPPALLI",
+  "zone": "Kozhikode",
+  "slug": "al-mahlarathul-jalaliyya-dars-villiappalli",
+  "category": "JUNIOR",
+  "stage1": "05. പ്രസംഗം മലയാളം",
+  "stage2": "08. ഗ്രന്ഥവായന",
+  "stage3": "14. ഗദ്യവായന മലയാളം",
+  "offstage1": "27. നിഘണ്ടു നിര്‍മ്മാണം",
+  "offstage2": "28. തശ്കീല്‍",
+  "offstage3": "30. പ്രശ്‌നോത്തരി"
  },
  {
   "code": "CJ123",
@@ -443,6 +432,38 @@
   "offstage1": "23. മെമ്മറി ടെസ്റ്റ്"
  },
  {
+  "code": "CJ119",
+  "name": "HAFIZ MUHAMMED ANJUM THIRUVALLUR",
+  "darsname": "AL MAHLARATHUL JALALIYYA DARS VILLIAPPALLI",
+  "darsplace": "VILLIAPPALLI",
+  "zone": "Kozhikode",
+  "slug": "al-mahlarathul-jalaliyya-dars-villiappalli",
+  "category": "JUNIOR",
+  "stage1": "09. ഗാനം അറബി"
+ },
+ {
+  "code": "CJ122",
+  "name": "HAFIZ SHAMIL ABDULLA THIRUVALLUR",
+  "darsname": "AL MAHLARATHUL JALALIYYA DARS VILLIAPPALLI",
+  "darsplace": "VILLIAPPALLI",
+  "zone": "Kozhikode",
+  "slug": "al-mahlarathul-jalaliyya-dars-villiappalli",
+  "category": "JUNIOR",
+  "stage1": "11. മാലപ്പാട്ട്",
+  "stage2": "12. ഗാനം ഉറുദു",
+  "stage3": "18. മദ്ഹുന്നബി"
+ },
+ {
+  "code": "CJ127",
+  "name": "MUHAMMED YASEEN KOLATHUR",
+  "darsname": "AL MAHLARATHUL JALALIYYA DARS VILLIAPPALLI",
+  "darsplace": "VILLIAPPALLI",
+  "zone": "Kozhikode",
+  "slug": "al-mahlarathul-jalaliyya-dars-villiappalli",
+  "category": "JUNIOR",
+  "stage1": "13. കഥ പറച്ചില്‍"
+ },
+ {
   "code": "CJ125",
   "name": "MIFTHAH MANIYUR",
   "darsname": "AL MAHLARATHUL JALALIYYA DARS VILLIAPPALLI",
@@ -463,94 +484,15 @@
   "offstage1": "22. സുഡോക്കു"
  },
  {
-  "code": "CJ127",
-  "name": "MUHAMMED YASEEN KOLATHUR",
+  "code": "CJ120",
+  "name": "MUHAMMED RASHAD THOTTILPALAM",
   "darsname": "AL MAHLARATHUL JALALIYYA DARS VILLIAPPALLI",
   "darsplace": "VILLIAPPALLI",
   "zone": "Kozhikode",
   "slug": "al-mahlarathul-jalaliyya-dars-villiappalli",
   "category": "JUNIOR",
-  "stage1": "13. കഥ പറച്ചില്‍"
- },
- {
-  "code": "CJ128",
-  "name": "HAFIZ MUHAMMED SINAN MEPPAYYUR",
-  "darsname": "AL MAHLARATHUL JALALIYYA DARS VILLIAPPALLI",
-  "darsplace": "VILLIAPPALLI",
-  "zone": "Kozhikode",
-  "slug": "al-mahlarathul-jalaliyya-dars-villiappalli",
-  "category": "JUNIOR",
-  "stage1": "01. ഖിറാഅത്ത്",
-  "stage2": "02. ഹിഫ്‌ള്",
-  "stage3": "10. മാപ്പിളപ്പാട്ട്",
-  "groupstage2": "20. മലയാള സമൂഹ ഗാനം",
-  "offstage1": "24. ഖത്തുന്നസ്ഖ്",
-  "offstage2": "25. കേട്ടെഴുത്ത്",
-  "offstage3": "26. പോസ്റ്റര്‍ ഡിസൈനിംഗ്"
- },
- {
-  "code": "CJ129",
-  "name": "MUHAMMED AFRAH .AYANCHERI",
-  "darsname": "AL MAHLARATHUL JALALIYYA DARS VILLIAPPALLI",
-  "darsplace": "VILLIAPPALLI",
-  "zone": "Kozhikode",
-  "slug": "al-mahlarathul-jalaliyya-dars-villiappalli",
-  "category": "JUNIOR",
-  "stage1": "05. പ്രസംഗം മലയാളം",
-  "stage2": "08. ഗ്രന്ഥവായന",
-  "stage3": "14. ഗദ്യവായന മലയാളം",
-  "offstage1": "27. നിഘണ്ടു നിര്‍മ്മാണം",
-  "offstage2": "28. തശ്കീല്‍",
-  "offstage3": "30. പ്രശ്‌നോത്തരി"
- },
- {
-  "code": "CS523",
-  "name": "SUHAIL AK . PANAMARAM",
-  "darsname": "AL MAHLARATHUL JALALIYYA DARS VILLIAPPALLI",
-  "darsplace": "VILLIAPPALLI",
-  "zone": "Kozhikode",
-  "slug": "al-mahlarathul-jalaliyya-dars-villiappalli",
-  "category": "SENIOR",
-  "stage1": "04. ക്ലാസ് അവതരണം",
-  "stage2": "05. വഅ്‌ള്",
-  "stage3": "07. പ്രസംഗം അറബി",
-  "groupstage2": "20. പ്രോഗ്രാം സെറ്റിംഗ്",
-  "offstage1": "25. വിവര്‍ത്തനം"
- },
- {
-  "code": "CS524",
-  "name": "MOHAMMED SHAHIN SULTHAN.MANGALAPURAM",
-  "darsname": "AL MAHLARATHUL JALALIYYA DARS VILLIAPPALLI",
-  "darsplace": "VILLIAPPALLI",
-  "zone": "Kozhikode",
-  "slug": "al-mahlarathul-jalaliyya-dars-villiappalli",
-  "category": "SENIOR",
-  "stage1": "11. ഗ്രന്ഥ വായന",
-  "offstage1": "28. പ്രബന്ധം അറബി",
-  "offstage2": "29. പ്രബന്ധം ഇംഗ്ലീഷ്",
-  "offstage3": "34. കവിതാ രചന"
- },
- {
-  "code": "CS525",
-  "name": "SHAMSEER VT VANIMEL",
-  "darsname": "AL MAHLARATHUL JALALIYYA DARS VILLIAPPALLI",
-  "darsplace": "VILLIAPPALLI",
-  "zone": "Kozhikode",
-  "slug": "al-mahlarathul-jalaliyya-dars-villiappalli",
-  "category": "SENIOR",
-  "stage1": "13. മുശാഅറ"
- },
- {
-  "code": "CS526",
-  "name": "MUHAMMED SHIBILI. PUTHUPPANAM",
-  "darsname": "AL MAHLARATHUL JALALIYYA DARS VILLIAPPALLI",
-  "darsplace": "VILLIAPPALLI",
-  "zone": "Kozhikode",
-  "slug": "al-mahlarathul-jalaliyya-dars-villiappalli",
-  "category": "SENIOR",
-  "offstage1": "21. അറബിക് കാലിഗ്രഫി",
-  "offstage2": "22. പോസ്റ്റര്‍ ഡിസൈനിംഗ്",
-  "offstage3": "23. ഖത്തുന്നസ്ഖ്"
+  "offstage1": "29. മലയാള പ്രബന്ധം",
+  "offstage2": "21. ചിത്രരചന"
  },
  {
   "code": "CS527",
@@ -582,18 +524,28 @@
   "offstage3": "37. പദ സമ്പാദനം"
  },
  {
-  "code": "CS529",
-  "name": "MUHAMMED SAHAL TK VADAYAM",
+  "code": "CS539",
+  "name": "HAFIZ ARSHAD MK. MUYIPPOTH",
   "darsname": "AL MAHLARATHUL JALALIYYA DARS VILLIAPPALLI",
   "darsplace": "VILLIAPPALLI",
   "zone": "Kozhikode",
   "slug": "al-mahlarathul-jalaliyya-dars-villiappalli",
   "category": "SENIOR",
-  "stage1": "15. പ്രബന്ധാവതരണം",
-  "offstage1": "30. പ്രബന്ധം മലയാളം",
-  "offstage2": "31. റിപ്പോര്‍ട്ടിംഗ്",
-  "offstage3": "36. അടിക്കുറിപ്പ്",
-  "groupoffstage": "40. പത്രനിര്‍മാണം"
+  "stage1": "03. വാങ്ക്"
+ },
+ {
+  "code": "CS523",
+  "name": "SUHAIL AK . PANAMARAM",
+  "darsname": "AL MAHLARATHUL JALALIYYA DARS VILLIAPPALLI",
+  "darsplace": "VILLIAPPALLI",
+  "zone": "Kozhikode",
+  "slug": "al-mahlarathul-jalaliyya-dars-villiappalli",
+  "category": "SENIOR",
+  "stage1": "04. ക്ലാസ് അവതരണം",
+  "stage2": "05. വഅ്‌ള്",
+  "stage3": "07. പ്രസംഗം അറബി",
+  "groupstage2": "20. പ്രോഗ്രാം സെറ്റിംഗ്",
+  "offstage1": "25. വിവര്‍ത്തനം"
  },
  {
   "code": "CS530",
@@ -619,23 +571,63 @@
   "stage1": "09. പ്രസംഗം ഇംഗ്ലീഷ്"
  },
  {
-  "code": "CS532",
-  "name": "HAFIZ IRFAN CK ARYANNUR",
+  "code": "CS536",
+  "name": "RAHEES KEEZHPAYYUR",
   "darsname": "AL MAHLARATHUL JALALIYYA DARS VILLIAPPALLI",
   "darsplace": "VILLIAPPALLI",
   "zone": "Kozhikode",
   "slug": "al-mahlarathul-jalaliyya-dars-villiappalli",
   "category": "SENIOR",
-  "offstage1": "38. തശ്കീല്‍"
+  "stage1": "10. ഖുഥ്ബ"
  },
  {
-  "code": "CS533",
-  "name": "HAFIZ ALTHAF KS",
+  "code": "CS524",
+  "name": "MOHAMMED SHAHIN SULTHAN.MANGALAPURAM",
   "darsname": "AL MAHLARATHUL JALALIYYA DARS VILLIAPPALLI",
   "darsplace": "VILLIAPPALLI",
   "zone": "Kozhikode",
   "slug": "al-mahlarathul-jalaliyya-dars-villiappalli",
-  "category": "SENIOR"
+  "category": "SENIOR",
+  "stage1": "11. ഗ്രന്ഥ വായന",
+  "offstage1": "28. പ്രബന്ധം അറബി",
+  "offstage2": "29. പ്രബന്ധം ഇംഗ്ലീഷ്",
+  "offstage3": "34. കവിതാ രചന"
+ },
+ {
+  "code": "CS525",
+  "name": "SHAMSEER VT VANIMEL",
+  "darsname": "AL MAHLARATHUL JALALIYYA DARS VILLIAPPALLI",
+  "darsplace": "VILLIAPPALLI",
+  "zone": "Kozhikode",
+  "slug": "al-mahlarathul-jalaliyya-dars-villiappalli",
+  "category": "SENIOR",
+  "stage1": "13. മുശാഅറ"
+ },
+ {
+  "code": "CS529",
+  "name": "MUHAMMED SAHAL TK VADAYAM",
+  "darsname": "AL MAHLARATHUL JALALIYYA DARS VILLIAPPALLI",
+  "darsplace": "VILLIAPPALLI",
+  "zone": "Kozhikode",
+  "slug": "al-mahlarathul-jalaliyya-dars-villiappalli",
+  "category": "SENIOR",
+  "stage1": "15. പ്രബന്ധാവതരണം",
+  "offstage1": "30. പ്രബന്ധം മലയാളം",
+  "offstage2": "31. റിപ്പോര്‍ട്ടിംഗ്",
+  "offstage3": "36. അടിക്കുറിപ്പ്",
+  "groupoffstage": "40. പത്രനിര്‍മാണം"
+ },
+ {
+  "code": "CS526",
+  "name": "MUHAMMED SHIBILI. PUTHUPPANAM",
+  "darsname": "AL MAHLARATHUL JALALIYYA DARS VILLIAPPALLI",
+  "darsplace": "VILLIAPPALLI",
+  "zone": "Kozhikode",
+  "slug": "al-mahlarathul-jalaliyya-dars-villiappalli",
+  "category": "SENIOR",
+  "offstage1": "21. അറബിക് കാലിഗ്രഫി",
+  "offstage2": "22. പോസ്റ്റര്‍ ഡിസൈനിംഗ്",
+  "offstage3": "23. ഖത്തുന്നസ്ഖ്"
  },
  {
   "code": "CS534",
@@ -648,6 +640,16 @@
   "offstage1": "24. ഖത്തുറുഖഈ"
  },
  {
+  "code": "CS532",
+  "name": "HAFIZ IRFAN CK ARYANNUR",
+  "darsname": "AL MAHLARATHUL JALALIYYA DARS VILLIAPPALLI",
+  "darsplace": "VILLIAPPALLI",
+  "zone": "Kozhikode",
+  "slug": "al-mahlarathul-jalaliyya-dars-villiappalli",
+  "category": "SENIOR",
+  "offstage1": "38. തശ്കീല്‍"
+ },
+ {
   "code": "CS535",
   "name": "HAFIZ RISAL KANNAMBATHKARA",
   "darsname": "AL MAHLARATHUL JALALIYYA DARS VILLIAPPALLI",
@@ -658,60 +660,20 @@
   "offstage3": "39. പ്രശ്‌നോത്തരി"
  },
  {
-  "code": "CS536",
-  "name": "RAHEES KEEZHPAYYUR",
-  "darsname": "AL MAHLARATHUL JALALIYYA DARS VILLIAPPALLI",
-  "darsplace": "VILLIAPPALLI",
+  "code": "CJ133",
+  "name": "MUHAMMED MASVOOD",
+  "darsname": "BUSTHANUL HUDABA DARS ODUMBRA",
+  "darsplace": "KALLIKKKUNNU",
   "zone": "Kozhikode",
-  "slug": "al-mahlarathul-jalaliyya-dars-villiappalli",
-  "category": "SENIOR",
-  "stage1": "10. ഖുഥ്ബ"
- },
- {
-  "code": "CS537",
-  "name": "MUHAMMED FAYIS VALAKETT",
-  "darsname": "AL MAHLARATHUL JALALIYYA DARS VILLIAPPALLI",
-  "darsplace": "VILLIAPPALLI",
-  "zone": "Kozhikode",
-  "slug": "al-mahlarathul-jalaliyya-dars-villiappalli",
-  "category": "SENIOR"
- },
- {
-  "code": "CS538",
-  "name": "FASALU RAHMAN. THIRUVALLUR",
-  "darsname": "AL MAHLARATHUL JALALIYYA DARS VILLIAPPALLI",
-  "darsplace": "VILLIAPPALLI",
-  "zone": "Kozhikode",
-  "slug": "al-mahlarathul-jalaliyya-dars-villiappalli",
-  "category": "SENIOR"
- },
- {
-  "code": "CS539",
-  "name": "HAFIZ ARSHAD MK. MUYIPPOTH",
-  "darsname": "AL MAHLARATHUL JALALIYYA DARS VILLIAPPALLI",
-  "darsplace": "VILLIAPPALLI",
-  "zone": "Kozhikode",
-  "slug": "al-mahlarathul-jalaliyya-dars-villiappalli",
-  "category": "SENIOR",
-  "stage1": "03. വാങ്ക്"
- },
- {
-  "code": "CS540",
-  "name": "HAFIZ HILAR NK",
-  "darsname": "BEPOR, HIDAYA",
-  "darsplace": "KALLAI",
-  "zone": "Kozhikode",
-  "slug": "bepor-hidaya",
-  "category": "SENIOR",
-  "stage1": "08. പ്രസംഗം ഉറുദു",
-  "stage2": "11. ഗ്രന്ഥ വായന",
-  "stage3": "12. കവിതാലാപനം മലയാളം",
-  "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
-  "groupstage2": "19. ഖസ്വീദ പാരായണം",
-  "offstage1": "29. പ്രബന്ധം ഇംഗ്ലീഷ്",
-  "offstage2": "26. വിവര്‍ത്തനം",
-  "offstage3": "22. പോസ്റ്റര്‍ ഡിസൈനിംഗ്",
-  "groupstage3": "20. പ്രോഗ്രാം സെറ്റിംഗ്"
+  "slug": "busthanul-hudaba-dars-odumbra",
+  "category": "JUNIOR",
+  "stage1": "01. ഖിറാഅത്ത്",
+  "stage2": "04. പ്രസംഗം അറബി",
+  "stage3": "16. പദപ്പയറ്റ് അറബി",
+  "groupstage1": "19. അറബി സംഘഗാനം",
+  "groupstage2": "20. മലയാള സമൂഹ ഗാനം",
+  "offstage1": "28. തശ്കീല്‍",
+  "offstage2": "30. പ്രശ്‌നോത്തരി"
  },
  {
   "code": "CJ130",
@@ -741,6 +703,16 @@
   "offstage2": "29. മലയാള പ്രബന്ധം"
  },
  {
+  "code": "CJ246",
+  "name": "NISHAD",
+  "darsname": "BUSTHANUL HUDABA DARS ODUMBRA",
+  "darsplace": "KALLIKKKUNNU",
+  "zone": "Kozhikode",
+  "slug": "busthanul-hudaba-dars-odumbra",
+  "category": "JUNIOR",
+  "stage1": "18. മദ്ഹുന്നബി"
+ },
+ {
   "code": "CJ132",
   "name": "RINSHAD P.P",
   "darsname": "BUSTHANUL HUDABA DARS ODUMBRA",
@@ -753,30 +725,30 @@
   "offstage3": "26. പോസ്റ്റര്‍ ഡിസൈനിംഗ്"
  },
  {
-  "code": "CJ133",
-  "name": "MUHAMMED MASVOOD",
+  "code": "CS542",
+  "name": "HABEEBU RAHMAN",
   "darsname": "BUSTHANUL HUDABA DARS ODUMBRA",
   "darsplace": "KALLIKKKUNNU",
   "zone": "Kozhikode",
   "slug": "busthanul-hudaba-dars-odumbra",
-  "category": "JUNIOR",
+  "category": "SENIOR",
   "stage1": "01. ഖിറാഅത്ത്",
-  "stage2": "04. പ്രസംഗം അറബി",
-  "stage3": "16. പദപ്പയറ്റ് അറബി",
-  "groupstage1": "19. അറബി സംഘഗാനം",
-  "groupstage2": "20. മലയാള സമൂഹ ഗാനം",
-  "offstage1": "28. തശ്കീല്‍",
-  "offstage2": "30. പ്രശ്‌നോത്തരി"
+  "stage2": "02. ഹിഫ്‌ള്",
+  "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
+  "offstage3": "38. തശ്കീല്‍"
  },
  {
-  "code": "CJ246",
-  "name": "NISHAD",
+  "code": "CS543",
+  "name": "ALI ARSHAD SHAIKH",
   "darsname": "BUSTHANUL HUDABA DARS ODUMBRA",
   "darsplace": "KALLIKKKUNNU",
   "zone": "Kozhikode",
   "slug": "busthanul-hudaba-dars-odumbra",
-  "category": "JUNIOR",
-  "stage1": "18. മദ്ഹുന്നബി"
+  "category": "SENIOR",
+  "stage1": "03. വാങ്ക്",
+  "stage2": "05. വഅ്‌ള്",
+  "offstage2": "27. വിവര്‍ത്തനം",
+  "offstage3": "29. പ്രബന്ധം ഇംഗ്ലീഷ്"
  },
  {
   "code": "CS541",
@@ -794,34 +766,6 @@
   "offstage3": "28. പ്രബന്ധം അറബി"
  },
  {
-  "code": "CS542",
-  "name": "HABEEBU RAHMAN",
-  "darsname": "BUSTHANUL HUDABA DARS ODUMBRA",
-  "darsplace": "KALLIKKKUNNU",
-  "zone": "Kozhikode",
-  "slug": "busthanul-hudaba-dars-odumbra",
-  "category": "SENIOR",
-  "stage1": "01. ഖിറാഅത്ത്",
-  "stage2": "02. ഹിഫ്‌ള്",
-  "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
-  "groupstage2": "19. ഖസ്വീദ പാരായണം",
-  "offstage3": "38. തശ്കീല്‍"
- },
- {
-  "code": "CS543",
-  "name": "ALI ARSHAD SHAIKH",
-  "darsname": "BUSTHANUL HUDABA DARS ODUMBRA",
-  "darsplace": "KALLIKKKUNNU",
-  "zone": "Kozhikode",
-  "slug": "busthanul-hudaba-dars-odumbra",
-  "category": "SENIOR",
-  "stage1": "03. വാങ്ക്",
-  "stage2": "05. വഅ്‌ള്",
-  "groupstage2": "19. ഖസ്വീദ പാരായണം",
-  "offstage2": "27. വിവര്‍ത്തനം",
-  "offstage3": "29. പ്രബന്ധം ഇംഗ്ലീഷ്"
- },
- {
   "code": "CS544",
   "name": "AADHIL",
   "darsname": "BUSTHANUL HUDABA DARS ODUMBRA",
@@ -832,7 +776,6 @@
   "stage1": "14. അനൗണ്‍സ്‌മെന്റ്",
   "stage2": "12. കവിതാലാപനം മലയാളം",
   "stage3": "15. പ്രബന്ധാവതരണം",
-  "groupstage1": "20. പ്രോഗ്രാം സെറ്റിംഗ്",
   "offstage1": "23. ഖത്തുന്നസ്ഖ്",
   "offstage2": "33. മുദ്രവാക്യ രചന",
   "offstage3": "21. അറബിക് കാലിഗ്രഫി",
@@ -849,16 +792,6 @@
   "stage3": "13. മുശാഅറ"
  },
  {
-  "code": "CS649",
-  "name": "NUSAIF",
-  "darsname": "BUSTHANUL HUDABA DARS ODUMBRA",
-  "darsplace": "KALLIKKKUNNU",
-  "zone": "Kozhikode",
-  "slug": "busthanul-hudaba-dars-odumbra",
-  "category": "SENIOR",
-  "offstage2": "36. അടിക്കുറിപ്പ്"
- },
- {
   "code": "CS650",
   "name": "AJSAL",
   "darsname": "BUSTHANUL HUDABA DARS ODUMBRA",
@@ -870,6 +803,16 @@
   "offstage3": "31. റിപ്പോര്‍ട്ടിംഗ്"
  },
  {
+  "code": "CS649",
+  "name": "NUSAIF",
+  "darsname": "BUSTHANUL HUDABA DARS ODUMBRA",
+  "darsplace": "KALLIKKKUNNU",
+  "zone": "Kozhikode",
+  "slug": "busthanul-hudaba-dars-odumbra",
+  "category": "SENIOR",
+  "offstage2": "36. അടിക്കുറിപ്പ്"
+ },
+ {
   "code": "CS651",
   "name": "SHAFI",
   "darsname": "BUSTHANUL HUDABA DARS ODUMBRA",
@@ -878,66 +821,6 @@
   "slug": "busthanul-hudaba-dars-odumbra",
   "category": "SENIOR",
   "offstage3": "22. പോസ്റ്റര്‍ ഡിസൈനിംഗ്"
- },
- {
-  "code": "CJ134",
-  "name": "MUUHAMMED SINAN RANDATHANI",
-  "darsname": "DARUL HIDAYA DARS KALARANTHIRI",
-  "darsplace": "KALARANTHIRI",
-  "zone": "Kozhikode",
-  "slug": "darul-hidaya-dars-kalaranthiri",
-  "category": "JUNIOR",
-  "offstage1": "21. ചിത്രരചന",
-  "offstage2": "26. പോസ്റ്റര്‍ ഡിസൈനിംഗ്"
- },
- {
-  "code": "CJ135",
-  "name": "SAHAD MANJERI",
-  "darsname": "DARUL HIDAYA DARS KALARANTHIRI",
-  "darsplace": "KALARANTHIRI",
-  "zone": "Kozhikode",
-  "slug": "darul-hidaya-dars-kalaranthiri",
-  "category": "JUNIOR",
-  "stage1": "05. പ്രസംഗം മലയാളം",
-  "stage2": "07. പ്രസംഗം ഇംഗ്ലീഷ്",
-  "stage3": "16. പദപ്പയറ്റ് അറബി",
-  "offstage1": "23. മെമ്മറി ടെസ്റ്റ്",
-  "offstage2": "29. മലയാള പ്രബന്ധം"
- },
- {
-  "code": "CJ136",
-  "name": "MOHAMMED RABEEH MANJERI",
-  "darsname": "DARUL HIDAYA DARS KALARANTHIRI",
-  "darsplace": "KALARANTHIRI",
-  "zone": "Kozhikode",
-  "slug": "darul-hidaya-dars-kalaranthiri",
-  "category": "JUNIOR",
-  "stage1": "04. പ്രസംഗം അറബി",
-  "stage2": "02. ഹിഫ്‌ള്",
-  "stage3": "14. ഗദ്യവായന മലയാളം",
-  "offstage1": "24. ഖത്തുന്നസ്ഖ്",
-  "offstage2": "25. കേട്ടെഴുത്ത്",
-  "offstage3": "27. നിഘണ്ടു നിര്‍മ്മാണം"
- },
- {
-  "code": "CJ137",
-  "name": "MUHAMMAD MUFLIH MANJERI",
-  "darsname": "DARUL HIDAYA DARS KALARANTHIRI",
-  "darsplace": "KALARANTHIRI",
-  "zone": "Kozhikode",
-  "slug": "darul-hidaya-dars-kalaranthiri",
-  "category": "JUNIOR",
-  "stage1": "13. കഥ പറച്ചില്‍"
- },
- {
-  "code": "CJ138",
-  "name": "MUHAMMAD MISHAB KODUVALLY",
-  "darsname": "DARUL HIDAYA DARS KALARANTHIRI",
-  "darsplace": "KALARANTHIRI",
-  "zone": "Kozhikode",
-  "slug": "darul-hidaya-dars-kalaranthiri",
-  "category": "JUNIOR",
-  "stage1": "06. പ്രസംഗം ഉറുദു"
  },
  {
   "code": "CJ139",
@@ -967,35 +850,43 @@
   "offstage2": "30. പ്രശ്‌നോത്തരി"
  },
  {
-  "code": "CJ142",
-  "name": "ANSHID MANJEERI",
+  "code": "CJ136",
+  "name": "MOHAMMED RABEEH MANJERI",
   "darsname": "DARUL HIDAYA DARS KALARANTHIRI",
   "darsplace": "KALARANTHIRI",
   "zone": "Kozhikode",
   "slug": "darul-hidaya-dars-kalaranthiri",
   "category": "JUNIOR",
-  "stage1": "15. മുശാഅറ"
+  "stage1": "04. പ്രസംഗം അറബി",
+  "stage2": "02. ഹിഫ്‌ള്",
+  "stage3": "14. ഗദ്യവായന മലയാളം",
+  "offstage1": "24. ഖത്തുന്നസ്ഖ്",
+  "offstage2": "25. കേട്ടെഴുത്ത്",
+  "offstage3": "27. നിഘണ്ടു നിര്‍മ്മാണം"
  },
  {
-  "code": "CJ143",
-  "name": "MOHMMAD SHAMIL VENNUR",
+  "code": "CJ135",
+  "name": "SAHAD MANJERI",
   "darsname": "DARUL HIDAYA DARS KALARANTHIRI",
   "darsplace": "KALARANTHIRI",
   "zone": "Kozhikode",
   "slug": "darul-hidaya-dars-kalaranthiri",
   "category": "JUNIOR",
-  "offstage1": "22. സുഡോക്കു"
+  "stage1": "05. പ്രസംഗം മലയാളം",
+  "stage2": "07. പ്രസംഗം ഇംഗ്ലീഷ്",
+  "stage3": "16. പദപ്പയറ്റ് അറബി",
+  "offstage1": "23. മെമ്മറി ടെസ്റ്റ്",
+  "offstage2": "29. മലയാള പ്രബന്ധം"
  },
  {
-  "code": "CJ144",
-  "name": "MUHAMMAD RAZEEL RAMANATTUKARA",
+  "code": "CJ138",
+  "name": "MUHAMMAD MISHAB KODUVALLY",
   "darsname": "DARUL HIDAYA DARS KALARANTHIRI",
   "darsplace": "KALARANTHIRI",
   "zone": "Kozhikode",
   "slug": "darul-hidaya-dars-kalaranthiri",
   "category": "JUNIOR",
-  "stage2": "09. ഗാനം അറബി",
-  "stage3": "18. മദ്ഹുന്നബി"
+  "stage1": "06. പ്രസംഗം ഉറുദു"
  },
  {
   "code": "CJ145",
@@ -1009,81 +900,68 @@
   "stage2": "11. മാലപ്പാട്ട്"
  },
  {
-  "code": "CS545",
-  "name": "MUHAMMAD IHSAN KOYILANDI",
+  "code": "CJ137",
+  "name": "MUHAMMAD MUFLIH MANJERI",
   "darsname": "DARUL HIDAYA DARS KALARANTHIRI",
   "darsplace": "KALARANTHIRI",
   "zone": "Kozhikode",
   "slug": "darul-hidaya-dars-kalaranthiri",
-  "category": "SENIOR",
-  "stage1": "09. പ്രസംഗം ഇംഗ്ലീഷ്"
+  "category": "JUNIOR",
+  "stage1": "13. കഥ പറച്ചില്‍"
  },
  {
-  "code": "CS547",
-  "name": "MUHAMMED IRFAN POONATH",
+  "code": "CJ142",
+  "name": "ANSHID MANJEERI",
   "darsname": "DARUL HIDAYA DARS KALARANTHIRI",
   "darsplace": "KALARANTHIRI",
   "zone": "Kozhikode",
   "slug": "darul-hidaya-dars-kalaranthiri",
-  "category": "SENIOR",
-  "offstage1": "30. പ്രബന്ധം മലയാളം",
-  "offstage2": "32. തലവാചക നിര്‍മ്മാണം",
-  "groupoffstage": "40. പത്രനിര്‍മാണം",
-  "groupstage3": "20. പ്രോഗ്രാം സെറ്റിംഗ്"
+  "category": "JUNIOR",
+  "stage1": "15. മുശാഅറ"
  },
  {
-  "code": "CS548",
-  "name": "ASIF KODUVALLY",
+  "code": "CJ144",
+  "name": "MUHAMMAD RAZEEL RAMANATTUKARA",
   "darsname": "DARUL HIDAYA DARS KALARANTHIRI",
   "darsplace": "KALARANTHIRI",
   "zone": "Kozhikode",
   "slug": "darul-hidaya-dars-kalaranthiri",
-  "category": "SENIOR",
-  "stage1": "07. പ്രസംഗം അറബി"
+  "category": "JUNIOR",
+  "stage2": "09. ഗാനം അറബി",
+  "stage3": "18. മദ്ഹുന്നബി"
  },
  {
-  "code": "CS549",
-  "name": "MUHAMMAD RASHID MANJERI",
+  "code": "CJ134",
+  "name": "MUUHAMMED SINAN RANDATHANI",
   "darsname": "DARUL HIDAYA DARS KALARANTHIRI",
   "darsplace": "KALARANTHIRI",
   "zone": "Kozhikode",
   "slug": "darul-hidaya-dars-kalaranthiri",
-  "category": "SENIOR",
-  "offstage2": "24. ഖത്തുറുഖഈ"
+  "category": "JUNIOR",
+  "offstage1": "21. ചിത്രരചന",
+  "offstage2": "26. പോസ്റ്റര്‍ ഡിസൈനിംഗ്"
  },
  {
-  "code": "CS550",
-  "name": "MUHAMMAD HASHIR PERAMBRA",
+  "code": "CJ143",
+  "name": "MOHMMAD SHAMIL VENNUR",
   "darsname": "DARUL HIDAYA DARS KALARANTHIRI",
   "darsplace": "KALARANTHIRI",
   "zone": "Kozhikode",
   "slug": "darul-hidaya-dars-kalaranthiri",
-  "category": "SENIOR",
-  "offstage2": "36. അടിക്കുറിപ്പ്",
-  "offstage3": "31. റിപ്പോര്‍ട്ടിംഗ്"
+  "category": "JUNIOR",
+  "offstage1": "22. സുഡോക്കു"
  },
  {
-  "code": "CS551",
-  "name": "MUHAMMAD SHAMIL PADINJATTUMURI",
+  "code": "CS561",
+  "name": "ABDUL VAHID TIRUR",
   "darsname": "DARUL HIDAYA DARS KALARANTHIRI",
   "darsplace": "KALARANTHIRI",
   "zone": "Kozhikode",
   "slug": "darul-hidaya-dars-kalaranthiri",
   "category": "SENIOR",
-  "stage2": "16. നിമിഷപ്രസംഗം",
-  "offstage1": "34. കവിതാ രചന",
-  "offstage2": "28. പ്രബന്ധം അറബി",
-  "offstage3": "35. നിഘണ്ടു നിര്‍മ്മാണം"
- },
- {
-  "code": "CS552",
-  "name": "MUHAMMED SINAN MUNDAKKAL",
-  "darsname": "DARUL HIDAYA DARS KALARANTHIRI",
-  "darsplace": "KALARANTHIRI",
-  "zone": "Kozhikode",
-  "slug": "darul-hidaya-dars-kalaranthiri",
-  "category": "SENIOR",
-  "offstage1": "39. പ്രശ്‌നോത്തരി"
+  "stage1": "01. ഖിറാഅത്ത്",
+  "stage2": "03. വാങ്ക്",
+  "stage3": "10. ഖുഥ്ബ"
  },
  {
   "code": "CS553",
@@ -1123,24 +1001,14 @@
   "offstage1": "33. മുദ്രവാക്യ രചന"
  },
  {
-  "code": "CS556",
-  "name": "MOHAMMAD JULAID KOOMANNA",
+  "code": "CS548",
+  "name": "ASIF KODUVALLY",
   "darsname": "DARUL HIDAYA DARS KALARANTHIRI",
   "darsplace": "KALARANTHIRI",
   "zone": "Kozhikode",
   "slug": "darul-hidaya-dars-kalaranthiri",
   "category": "SENIOR",
-  "offstage1": "23. ഖത്തുന്നസ്ഖ്"
- },
- {
-  "code": "CS557",
-  "name": "MABROOK TIRUR",
-  "darsname": "DARUL HIDAYA DARS KALARANTHIRI",
-  "darsplace": "KALARANTHIRI",
-  "zone": "Kozhikode",
-  "slug": "darul-hidaya-dars-kalaranthiri",
-  "category": "SENIOR",
-  "stage3": "05. വഅ്‌ള്"
+  "stage1": "07. പ്രസംഗം അറബി"
  },
  {
   "code": "CS558",
@@ -1154,16 +1022,14 @@
   "stage2": "14. അനൗണ്‍സ്‌മെന്റ്"
  },
  {
-  "code": "CS561",
-  "name": "ABDUL VAHID TIRUR",
+  "code": "CS545",
+  "name": "MUHAMMAD IHSAN KOYILANDI",
   "darsname": "DARUL HIDAYA DARS KALARANTHIRI",
   "darsplace": "KALARANTHIRI",
   "zone": "Kozhikode",
   "slug": "darul-hidaya-dars-kalaranthiri",
   "category": "SENIOR",
-  "stage1": "01. ഖിറാഅത്ത്",
-  "stage2": "03. വാങ്ക്",
-  "stage3": "10. ഖുഥ്ബ"
+  "stage1": "09. പ്രസംഗം ഇംഗ്ലീഷ്"
  },
  {
   "code": "CS562",
@@ -1182,15 +1048,80 @@
   "offstage2": "21. അറബിക് കാലിഗ്രഫി"
  },
  {
-  "code": "CJ147",
-  "name": "RAHEEM",
-  "darsname": "DARUL HIDAYA DARS KOODATHAYI",
-  "darsplace": "KOODATHAYI",
+  "code": "CS551",
+  "name": "MUHAMMAD SHAMIL PADINJATTUMURI",
+  "darsname": "DARUL HIDAYA DARS KALARANTHIRI",
+  "darsplace": "KALARANTHIRI",
   "zone": "Kozhikode",
-  "slug": "darul-hidaya-dars-koodathayi",
-  "category": "JUNIOR",
-  "stage1": "08. ഗ്രന്ഥവായന",
-  "stage3": "13. കഥ പറച്ചില്‍"
+  "slug": "darul-hidaya-dars-kalaranthiri",
+  "category": "SENIOR",
+  "stage2": "16. നിമിഷപ്രസംഗം",
+  "offstage1": "34. കവിതാ രചന",
+  "offstage2": "28. പ്രബന്ധം അറബി",
+  "offstage3": "35. നിഘണ്ടു നിര്‍മ്മാണം"
+ },
+ {
+  "code": "CS557",
+  "name": "MABROOK TIRUR",
+  "darsname": "DARUL HIDAYA DARS KALARANTHIRI",
+  "darsplace": "KALARANTHIRI",
+  "zone": "Kozhikode",
+  "slug": "darul-hidaya-dars-kalaranthiri",
+  "category": "SENIOR",
+  "stage3": "05. വഅ്‌ള്"
+ },
+ {
+  "code": "CS556",
+  "name": "MOHAMMAD JULAID KOOMANNA",
+  "darsname": "DARUL HIDAYA DARS KALARANTHIRI",
+  "darsplace": "KALARANTHIRI",
+  "zone": "Kozhikode",
+  "slug": "darul-hidaya-dars-kalaranthiri",
+  "category": "SENIOR",
+  "offstage1": "23. ഖത്തുന്നസ്ഖ്"
+ },
+ {
+  "code": "CS547",
+  "name": "MUHAMMED IRFAN POONATH",
+  "darsname": "DARUL HIDAYA DARS KALARANTHIRI",
+  "darsplace": "KALARANTHIRI",
+  "zone": "Kozhikode",
+  "slug": "darul-hidaya-dars-kalaranthiri",
+  "category": "SENIOR",
+  "offstage1": "30. പ്രബന്ധം മലയാളം",
+  "offstage2": "32. തലവാചക നിര്‍മ്മാണം",
+  "groupoffstage": "40. പത്രനിര്‍മാണം"
+ },
+ {
+  "code": "CS552",
+  "name": "MUHAMMED SINAN MUNDAKKAL",
+  "darsname": "DARUL HIDAYA DARS KALARANTHIRI",
+  "darsplace": "KALARANTHIRI",
+  "zone": "Kozhikode",
+  "slug": "darul-hidaya-dars-kalaranthiri",
+  "category": "SENIOR",
+  "offstage1": "39. പ്രശ്‌നോത്തരി"
+ },
+ {
+  "code": "CS549",
+  "name": "MUHAMMAD RASHID MANJERI",
+  "darsname": "DARUL HIDAYA DARS KALARANTHIRI",
+  "darsplace": "KALARANTHIRI",
+  "zone": "Kozhikode",
+  "slug": "darul-hidaya-dars-kalaranthiri",
+  "category": "SENIOR",
+  "offstage2": "24. ഖത്തുറുഖഈ"
+ },
+ {
+  "code": "CS550",
+  "name": "MUHAMMAD HASHIR PERAMBRA",
+  "darsname": "DARUL HIDAYA DARS KALARANTHIRI",
+  "darsplace": "KALARANTHIRI",
+  "zone": "Kozhikode",
+  "slug": "darul-hidaya-dars-kalaranthiri",
+  "category": "SENIOR",
+  "offstage2": "36. അടിക്കുറിപ്പ്",
+  "offstage3": "31. റിപ്പോര്‍ട്ടിംഗ്"
  },
  {
   "code": "CJ148",
@@ -1205,59 +1136,25 @@
   "stage3": "04. പ്രസംഗം അറബി"
  },
  {
-  "code": "CJ149",
-  "name": "ASHIK",
+  "code": "CJ245",
+  "name": "FASAL",
   "darsname": "DARUL HIDAYA DARS KOODATHAYI",
   "darsplace": "KOODATHAYI",
   "zone": "Kozhikode",
   "slug": "darul-hidaya-dars-koodathayi",
   "category": "JUNIOR",
-  "stage1": "12. ഗാനം ഉറുദു",
-  "stage2": "03. വാങ്ക്",
-  "stage3": "18. മദ്ഹുന്നബി"
+  "stage1": "07. പ്രസംഗം ഇംഗ്ലീഷ്"
  },
  {
-  "code": "CJ163",
-  "name": "MUHAMMAD ARIF KK",
+  "code": "CJ147",
+  "name": "RAHEEM",
   "darsname": "DARUL HIDAYA DARS KOODATHAYI",
   "darsplace": "KOODATHAYI",
   "zone": "Kozhikode",
   "slug": "darul-hidaya-dars-koodathayi",
   "category": "JUNIOR",
-  "offstage1": "22. സുഡോക്കു",
-  "offstage2": "24. ഖത്തുന്നസ്ഖ്",
-  "offstage3": "28. തശ്കീല്‍"
- },
- {
-  "code": "CJ164",
-  "name": "JURAIJ, KOODTHAI",
-  "darsname": "DARUL HIDAYA DARS KOODATHAYI",
-  "darsplace": "KOODATHAYI",
-  "zone": "Kozhikode",
-  "slug": "darul-hidaya-dars-koodathayi",
-  "category": "JUNIOR",
-  "offstage1": "21. ചിത്രരചന",
-  "offstage2": "30. പ്രശ്‌നോത്തരി"
- },
- {
-  "code": "CJ166",
-  "name": "AFLAH",
-  "darsname": "DARUL HIDAYA DARS KOODATHAYI",
-  "darsplace": "KOODATHAYI",
-  "zone": "Kozhikode",
-  "slug": "darul-hidaya-dars-koodathayi",
-  "category": "JUNIOR",
-  "offstage3": "26. പോസ്റ്റര്‍ ഡിസൈനിംഗ്"
- },
- {
-  "code": "CJ167",
-  "name": "ABBAD",
-  "darsname": "DARUL HIDAYA DARS KOODATHAYI",
-  "darsplace": "KOODATHAYI",
-  "zone": "Kozhikode",
-  "slug": "darul-hidaya-dars-koodathayi",
-  "category": "JUNIOR",
-  "stage2": "05. പ്രസംഗം മലയാളം"
+  "stage1": "08. ഗ്രന്ഥവായന",
+  "stage3": "13. കഥ പറച്ചില്‍"
  },
  {
   "code": "CJ243",
@@ -1271,6 +1168,28 @@
   "stage2": "10. മാപ്പിളപ്പാട്ട്",
   "groupstage1": "19. അറബി സംഘഗാനം",
   "groupstage2": "20. മലയാള സമൂഹ ഗാനം"
+ },
+ {
+  "code": "CJ149",
+  "name": "ASHIK",
+  "darsname": "DARUL HIDAYA DARS KOODATHAYI",
+  "darsplace": "KOODATHAYI",
+  "zone": "Kozhikode",
+  "slug": "darul-hidaya-dars-koodathayi",
+  "category": "JUNIOR",
+  "stage1": "12. ഗാനം ഉറുദു",
+  "stage2": "03. വാങ്ക്",
+  "stage3": "18. മദ്ഹുന്നബി"
+ },
+ {
+  "code": "CJ167",
+  "name": "ABBAD",
+  "darsname": "DARUL HIDAYA DARS KOODATHAYI",
+  "darsplace": "KOODATHAYI",
+  "zone": "Kozhikode",
+  "slug": "darul-hidaya-dars-koodathayi",
+  "category": "JUNIOR",
+  "stage2": "05. പ്രസംഗം മലയാളം"
  },
  {
   "code": "CJ244",
@@ -1287,14 +1206,37 @@
   "offstage3": "29. മലയാള പ്രബന്ധം"
  },
  {
-  "code": "CJ245",
-  "name": "FASAL",
+  "code": "CJ164",
+  "name": "JURAIJ, KOODTHAI",
   "darsname": "DARUL HIDAYA DARS KOODATHAYI",
   "darsplace": "KOODATHAYI",
   "zone": "Kozhikode",
   "slug": "darul-hidaya-dars-koodathayi",
   "category": "JUNIOR",
-  "stage1": "07. പ്രസംഗം ഇംഗ്ലീഷ്"
+  "offstage1": "21. ചിത്രരചന",
+  "offstage2": "30. പ്രശ്‌നോത്തരി"
+ },
+ {
+  "code": "CJ163",
+  "name": "MUHAMMAD ARIF KK",
+  "darsname": "DARUL HIDAYA DARS KOODATHAYI",
+  "darsplace": "KOODATHAYI",
+  "zone": "Kozhikode",
+  "slug": "darul-hidaya-dars-koodathayi",
+  "category": "JUNIOR",
+  "offstage1": "22. സുഡോക്കു",
+  "offstage2": "24. ഖത്തുന്നസ്ഖ്",
+  "offstage3": "28. തശ്കീല്‍"
+ },
+ {
+  "code": "CJ166",
+  "name": "AFLAH",
+  "darsname": "DARUL HIDAYA DARS KOODATHAYI",
+  "darsplace": "KOODATHAYI",
+  "zone": "Kozhikode",
+  "slug": "darul-hidaya-dars-koodathayi",
+  "category": "JUNIOR",
+  "offstage3": "26. പോസ്റ്റര്‍ ഡിസൈനിംഗ്"
  },
  {
   "code": "CS564",
@@ -1308,6 +1250,23 @@
   "stage2": "03. വാങ്ക്",
   "stage3": "02. ഹിഫ്‌ള്",
   "offstage3": "34. കവിതാ രചന"
+ },
+ {
+  "code": "CS592",
+  "name": "RIYAS. C THEKKUMKUTTY",
+  "darsname": "DARUL HIDAYA DARS KOODATHAYI",
+  "darsplace": "KOODATHAYI",
+  "zone": "Kozhikode",
+  "slug": "darul-hidaya-dars-koodathayi",
+  "category": "SENIOR",
+  "stage1": "05. വഅ്‌ള്",
+  "stage2": "10. ഖുഥ്ബ",
+  "stage3": "14. അനൗണ്‍സ്‌മെന്റ്",
+  "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
+  "groupstage2": "19. ഖസ്വീദ പാരായണം",
+  "offstage1": "36. അടിക്കുറിപ്പ്",
+  "offstage2": "33. മുദ്രവാക്യ രചന",
+  "groupoffstage": "40. പത്രനിര്‍മാണം"
  },
  {
   "code": "CS565",
@@ -1341,18 +1300,6 @@
   "offstage3": "25. വിവര്‍ത്തനം"
  },
  {
-  "code": "CS590",
-  "name": "SHAREEF C",
-  "darsname": "DARUL HIDAYA DARS KOODATHAYI",
-  "darsplace": "KOODATHAYI",
-  "zone": "Kozhikode",
-  "slug": "darul-hidaya-dars-koodathayi",
-  "category": "SENIOR",
-  "offstage1": "39. പ്രശ്‌നോത്തരി",
-  "offstage2": "35. നിഘണ്ടു നിര്‍മ്മാണം",
-  "offstage3": "32. തലവാചക നിര്‍മ്മാണം"
- },
- {
   "code": "CS591",
   "name": "ASHIF",
   "darsname": "DARUL HIDAYA DARS KOODATHAYI",
@@ -1365,21 +1312,16 @@
   "offstage3": "38. തശ്കീല്‍"
  },
  {
-  "code": "CS592",
-  "name": "RIYAS. C THEKKUMKUTTY",
+  "code": "CS590",
+  "name": "SHAREEF C",
   "darsname": "DARUL HIDAYA DARS KOODATHAYI",
   "darsplace": "KOODATHAYI",
   "zone": "Kozhikode",
   "slug": "darul-hidaya-dars-koodathayi",
   "category": "SENIOR",
-  "stage1": "05. വഅ്‌ള്",
-  "stage2": "10. ഖുഥ്ബ",
-  "stage3": "14. അനൗണ്‍സ്‌മെന്റ്",
-  "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
-  "groupstage2": "19. ഖസ്വീദ പാരായണം",
-  "offstage1": "36. അടിക്കുറിപ്പ്",
-  "offstage2": "33. മുദ്രവാക്യ രചന",
-  "groupoffstage": "40. പത്രനിര്‍മാണം"
+  "offstage1": "39. പ്രശ്‌നോത്തരി",
+  "offstage2": "35. നിഘണ്ടു നിര്‍മ്മാണം",
+  "offstage3": "32. തലവാചക നിര്‍മ്മാണം"
  },
  {
   "code": "CJ150",
@@ -1489,34 +1431,6 @@
   "offstage1": "21. ചിത്രരചന"
  },
  {
-  "code": "CJ159",
-  "name": "SADEED ORKKATTERI",
-  "darsname": "DARUL HIDAYA DARS ORKKATTERI",
-  "darsplace": "ORKKATTERI",
-  "zone": "Kozhikode",
-  "slug": "darul-hidaya-dars-orkkatteri",
-  "category": "JUNIOR",
-  "stage1": "17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്"
- },
- {
-  "code": "CJ160",
-  "name": "NIHAL",
-  "darsname": "DARUL HIDAYA DARS ORKKATTERI",
-  "darsplace": "ORKKATTERI",
-  "zone": "Kozhikode",
-  "slug": "darul-hidaya-dars-orkkatteri",
-  "category": "JUNIOR"
- },
- {
-  "code": "CJ161",
-  "name": "AHMED KABEER THANIYAMPURAM",
-  "darsname": "DARUL HIDAYA DARS ORKKATTERI",
-  "darsplace": "ORKKATTERI",
-  "zone": "Kozhikode",
-  "slug": "darul-hidaya-dars-orkkatteri",
-  "category": "JUNIOR"
- },
- {
   "code": "CJ162",
   "name": "SHADULI THANIYAMPURAM",
   "darsname": "DARUL HIDAYA DARS ORKKATTERI",
@@ -1527,6 +1441,63 @@
   "stage1": "14. ഗദ്യവായന മലയാളം",
   "offstage1": "24. ഖത്തുന്നസ്ഖ്",
   "offstage2": "25. കേട്ടെഴുത്ത്"
+ },
+ {
+  "code": "CJ159",
+  "name": "SADEED ORKKATTERI",
+  "darsname": "DARUL HIDAYA DARS ORKKATTERI",
+  "darsplace": "ORKKATTERI",
+  "zone": "Kozhikode",
+  "slug": "darul-hidaya-dars-orkkatteri",
+  "category": "JUNIOR",
+  "stage1": "17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്"
+ },
+ {
+  "code": "CS575",
+  "name": "NASEEM PAYYOLI",
+  "darsname": "DARUL HIDAYA DARS ORKKATTERI",
+  "darsplace": "ORKKATTERI",
+  "zone": "Kozhikode",
+  "slug": "darul-hidaya-dars-orkkatteri",
+  "category": "SENIOR",
+  "stage1": "01. ഖിറാഅത്ത്",
+  "stage2": "03. വാങ്ക്"
+ },
+ {
+  "code": "CS588",
+  "name": "FARHAN",
+  "darsname": "DARUL HIDAYA DARS ORKKATTERI",
+  "darsplace": "ORKKATTERI",
+  "zone": "Kozhikode",
+  "slug": "darul-hidaya-dars-orkkatteri",
+  "category": "SENIOR",
+  "stage1": "02. ഹിഫ്‌ള്"
+ },
+ {
+  "code": "CS578",
+  "name": "MUHAMMAD RAZI PERAMBRA",
+  "darsname": "DARUL HIDAYA DARS ORKKATTERI",
+  "darsplace": "ORKKATTERI",
+  "zone": "Kozhikode",
+  "slug": "darul-hidaya-dars-orkkatteri",
+  "category": "SENIOR",
+  "stage1": "04. ക്ലാസ് അവതരണം",
+  "stage2": "11. ഗ്രന്ഥ വായന",
+  "stage3": "15. പ്രബന്ധാവതരണം",
+  "offstage1": "26. വിവര്‍ത്തനം",
+  "offstage2": "30. പ്രബന്ധം മലയാളം",
+  "offstage3": "33. മുദ്രവാക്യ രചന"
+ },
+ {
+  "code": "CS568",
+  "name": "MUNAVVIR",
+  "darsname": "DARUL HIDAYA DARS ORKKATTERI",
+  "darsplace": "ORKKATTERI",
+  "zone": "Kozhikode",
+  "slug": "darul-hidaya-dars-orkkatteri",
+  "category": "SENIOR",
+  "stage1": "05. വഅ്‌ള്",
+  "offstage1": "23. ഖത്തുന്നസ്ഖ്"
  },
  {
   "code": "CS567",
@@ -1542,15 +1513,86 @@
   "offstage3": "34. കവിതാ രചന"
  },
  {
-  "code": "CS568",
-  "name": "MUNAVVIR",
+  "code": "CS580",
+  "name": "ARSHAD MV ORKKATTERI",
   "darsname": "DARUL HIDAYA DARS ORKKATTERI",
   "darsplace": "ORKKATTERI",
   "zone": "Kozhikode",
   "slug": "darul-hidaya-dars-orkkatteri",
   "category": "SENIOR",
-  "stage1": "05. വഅ്‌ള്",
-  "offstage1": "23. ഖത്തുന്നസ്ഖ്"
+  "stage1": "07. പ്രസംഗം അറബി"
+ },
+ {
+  "code": "CS581",
+  "name": "RUBAIS KODAG",
+  "darsname": "DARUL HIDAYA DARS ORKKATTERI",
+  "darsplace": "ORKKATTERI",
+  "zone": "Kozhikode",
+  "slug": "darul-hidaya-dars-orkkatteri",
+  "category": "SENIOR",
+  "stage1": "08. പ്രസംഗം ഉറുദു"
+ },
+ {
+  "code": "CS582",
+  "name": "HISAN MUHAMMAD ORKKATTERI",
+  "darsname": "DARUL HIDAYA DARS ORKKATTERI",
+  "darsplace": "ORKKATTERI",
+  "zone": "Kozhikode",
+  "slug": "darul-hidaya-dars-orkkatteri",
+  "category": "SENIOR",
+  "stage1": "09. പ്രസംഗം ഇംഗ്ലീഷ്"
+ },
+ {
+  "code": "CS576",
+  "name": "ANSHITH PERAMBRA",
+  "darsname": "DARUL HIDAYA DARS ORKKATTERI",
+  "darsplace": "ORKKATTERI",
+  "zone": "Kozhikode",
+  "slug": "darul-hidaya-dars-orkkatteri",
+  "category": "SENIOR",
+  "stage1": "10. ഖുഥ്ബ",
+  "stage2": "12. കവിതാലാപനം മലയാളം",
+  "groupstage1": "20. പ്രോഗ്രാം സെറ്റിംഗ്",
+  "offstage1": "21. അറബിക് കാലിഗ്രഫി",
+  "offstage2": "22. പോസ്റ്റര്‍ ഡിസൈനിംഗ്",
+  "groupoffstage": "40. പത്രനിര്‍മാണം"
+ },
+ {
+  "code": "CS579",
+  "name": "ANWER SWADIQ PK THANIYAMPURAM",
+  "darsname": "DARUL HIDAYA DARS ORKKATTERI",
+  "darsplace": "ORKKATTERI",
+  "zone": "Kozhikode",
+  "slug": "darul-hidaya-dars-orkkatteri",
+  "category": "SENIOR",
+  "stage1": "14. അനൗണ്‍സ്‌മെന്റ്",
+  "stage2": "17. പാടിപ്പറയല്‍"
+ },
+ {
+  "code": "CS583",
+  "name": "MUHAMMAD RASAL MUTHUBADATHUR",
+  "darsname": "DARUL HIDAYA DARS ORKKATTERI",
+  "darsplace": "ORKKATTERI",
+  "zone": "Kozhikode",
+  "slug": "darul-hidaya-dars-orkkatteri",
+  "category": "SENIOR",
+  "stage1": "16. നിമിഷപ്രസംഗം",
+  "offstage1": "27. വിവര്‍ത്തനം",
+  "offstage2": "37. പദ സമ്പാദനം",
+  "offstage3": "39. പ്രശ്‌നോത്തരി"
+ },
+ {
+  "code": "CS577",
+  "name": "MUHAMMED UNAIS THANIYAMPURAM",
+  "darsname": "DARUL HIDAYA DARS ORKKATTERI",
+  "darsplace": "ORKKATTERI",
+  "zone": "Kozhikode",
+  "slug": "darul-hidaya-dars-orkkatteri",
+  "category": "SENIOR",
+  "stage2": "13. മുശാഅറ",
+  "offstage1": "24. ഖത്തുറുഖഈ",
+  "offstage2": "35. നിഘണ്ടു നിര്‍മ്മാണം",
+  "offstage3": "38. തശ്കീല്‍"
  },
  {
   "code": "CS569",
@@ -1593,114 +1635,6 @@
   "offstage1": "36. അടിക്കുറിപ്പ്"
  },
  {
-  "code": "CS575",
-  "name": "NASEEM PAYYOLI",
-  "darsname": "DARUL HIDAYA DARS ORKKATTERI",
-  "darsplace": "ORKKATTERI",
-  "zone": "Kozhikode",
-  "slug": "darul-hidaya-dars-orkkatteri",
-  "category": "SENIOR",
-  "stage1": "01. ഖിറാഅത്ത്",
-  "stage2": "03. വാങ്ക്"
- },
- {
-  "code": "CS576",
-  "name": "ANSHITH PERAMBRA",
-  "darsname": "DARUL HIDAYA DARS ORKKATTERI",
-  "darsplace": "ORKKATTERI",
-  "zone": "Kozhikode",
-  "slug": "darul-hidaya-dars-orkkatteri",
-  "category": "SENIOR",
-  "stage1": "10. ഖുഥ്ബ",
-  "stage2": "12. കവിതാലാപനം മലയാളം",
-  "groupstage1": "20. പ്രോഗ്രാം സെറ്റിംഗ്",
-  "offstage1": "21. അറബിക് കാലിഗ്രഫി",
-  "offstage2": "22. പോസ്റ്റര്‍ ഡിസൈനിംഗ്",
-  "groupoffstage": "40. പത്രനിര്‍മാണം"
- },
- {
-  "code": "CS577",
-  "name": "MUHAMMED UNAIS THANIYAMPURAM",
-  "darsname": "DARUL HIDAYA DARS ORKKATTERI",
-  "darsplace": "ORKKATTERI",
-  "zone": "Kozhikode",
-  "slug": "darul-hidaya-dars-orkkatteri",
-  "category": "SENIOR",
-  "stage2": "13. മുശാഅറ",
-  "offstage1": "24. ഖത്തുറുഖഈ",
-  "offstage2": "35. നിഘണ്ടു നിര്‍മ്മാണം",
-  "offstage3": "38. തശ്കീല്‍"
- },
- {
-  "code": "CS578",
-  "name": "MUHAMMAD RAZI PERAMBRA",
-  "darsname": "DARUL HIDAYA DARS ORKKATTERI",
-  "darsplace": "ORKKATTERI",
-  "zone": "Kozhikode",
-  "slug": "darul-hidaya-dars-orkkatteri",
-  "category": "SENIOR",
-  "stage1": "04. ക്ലാസ് അവതരണം",
-  "stage2": "11. ഗ്രന്ഥ വായന",
-  "stage3": "15. പ്രബന്ധാവതരണം",
-  "offstage1": "26. വിവര്‍ത്തനം",
-  "offstage2": "30. പ്രബന്ധം മലയാളം",
-  "offstage3": "33. മുദ്രവാക്യ രചന"
- },
- {
-  "code": "CS579",
-  "name": "ANWER SWADIQ PK THANIYAMPURAM",
-  "darsname": "DARUL HIDAYA DARS ORKKATTERI",
-  "darsplace": "ORKKATTERI",
-  "zone": "Kozhikode",
-  "slug": "darul-hidaya-dars-orkkatteri",
-  "category": "SENIOR",
-  "stage1": "14. അനൗണ്‍സ്‌മെന്റ്",
-  "stage2": "17. പാടിപ്പറയല്‍"
- },
- {
-  "code": "CS580",
-  "name": "ARSHAD MV ORKKATTERI",
-  "darsname": "DARUL HIDAYA DARS ORKKATTERI",
-  "darsplace": "ORKKATTERI",
-  "zone": "Kozhikode",
-  "slug": "darul-hidaya-dars-orkkatteri",
-  "category": "SENIOR",
-  "stage1": "07. പ്രസംഗം അറബി"
- },
- {
-  "code": "CS581",
-  "name": "RUBAIS KODAG",
-  "darsname": "DARUL HIDAYA DARS ORKKATTERI",
-  "darsplace": "ORKKATTERI",
-  "zone": "Kozhikode",
-  "slug": "darul-hidaya-dars-orkkatteri",
-  "category": "SENIOR",
-  "stage1": "08. പ്രസംഗം ഉറുദു"
- },
- {
-  "code": "CS582",
-  "name": "HISAN MUHAMMAD ORKKATTERI",
-  "darsname": "DARUL HIDAYA DARS ORKKATTERI",
-  "darsplace": "ORKKATTERI",
-  "zone": "Kozhikode",
-  "slug": "darul-hidaya-dars-orkkatteri",
-  "category": "SENIOR",
-  "stage1": "09. പ്രസംഗം ഇംഗ്ലീഷ്"
- },
- {
-  "code": "CS583",
-  "name": "MUHAMMAD RASAL MUTHUBADATHUR",
-  "darsname": "DARUL HIDAYA DARS ORKKATTERI",
-  "darsplace": "ORKKATTERI",
-  "zone": "Kozhikode",
-  "slug": "darul-hidaya-dars-orkkatteri",
-  "category": "SENIOR",
-  "stage1": "16. നിമിഷപ്രസംഗം",
-  "offstage1": "27. വിവര്‍ത്തനം",
-  "offstage2": "37. പദ സമ്പാദനം",
-  "offstage3": "39. പ്രശ്‌നോത്തരി"
- },
- {
   "code": "CS584",
   "name": "AFLAH THANIYAMPURAM",
   "darsname": "DARUL HIDAYA DARS ORKKATTERI",
@@ -1710,26 +1644,6 @@
   "category": "SENIOR",
   "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
   "groupstage2": "19. ഖസ്വീദ പാരായണം"
- },
- {
-  "code": "CS588",
-  "name": "FARHAN",
-  "darsname": "DARUL HIDAYA DARS ORKKATTERI",
-  "darsplace": "ORKKATTERI",
-  "zone": "Kozhikode",
-  "slug": "darul-hidaya-dars-orkkatteri",
-  "category": "SENIOR",
-  "stage1": "02. ഹിഫ്‌ള്"
- },
- {
-  "code": "CJ168",
-  "name": "SAYED FADIL MUNAFFER",
-  "darsname": "IHSAN DARS PERUMUGHAM",
-  "darsplace": "PERUMUGHAM",
-  "zone": "Kozhikode",
-  "slug": "ihsan-dars-perumugham",
-  "category": "JUNIOR",
-  "stage1": "17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്"
  },
  {
   "code": "CJ169",
@@ -1754,14 +1668,80 @@
   "stage1": "02. ഹിഫ്‌ള്"
  },
  {
-  "code": "CJ171",
-  "name": "MUHAMMED SINAN CP",
+  "code": "CJ174",
+  "name": "MUHAMMED HINAN .K",
   "darsname": "IHSAN DARS PERUMUGHAM",
   "darsplace": "PERUMUGHAM",
   "zone": "Kozhikode",
   "slug": "ihsan-dars-perumugham",
   "category": "JUNIOR",
-  "offstage1": "28. തശ്കീല്‍"
+  "stage1": "04. പ്രസംഗം അറബി"
+ },
+ {
+  "code": "CJ177",
+  "name": "MUHAMMED MUBARAK C P VENGARA",
+  "darsname": "IHSAN DARS PERUMUGHAM",
+  "darsplace": "PERUMUGHAM",
+  "zone": "Kozhikode",
+  "slug": "ihsan-dars-perumugham",
+  "category": "JUNIOR",
+  "stage1": "05. പ്രസംഗം മലയാളം",
+  "offstage1": "27. നിഘണ്ടു നിര്‍മ്മാണം"
+ },
+ {
+  "code": "CJ181",
+  "name": "HAFIZ MUHAMMED RAFI VP KAMBLAKKAD",
+  "darsname": "IHSAN DARS PERUMUGHAM",
+  "darsplace": "PERUMUGHAM",
+  "zone": "Kozhikode",
+  "slug": "ihsan-dars-perumugham",
+  "category": "JUNIOR",
+  "stage1": "06. പ്രസംഗം ഉറുദു"
+ },
+ {
+  "code": "CJ182",
+  "name": "MUHAMMED NIHAL V VELLAMUNDA",
+  "darsname": "IHSAN DARS PERUMUGHAM",
+  "darsplace": "PERUMUGHAM",
+  "zone": "Kozhikode",
+  "slug": "ihsan-dars-perumugham",
+  "category": "JUNIOR",
+  "stage1": "07. പ്രസംഗം ഇംഗ്ലീഷ്",
+  "offstage1": "25. കേട്ടെഴുത്ത്"
+ },
+ {
+  "code": "CJ180",
+  "name": "HAFIZ FIYAS MUHAMMED",
+  "darsname": "IHSAN DARS PERUMUGHAM",
+  "darsplace": "PERUMUGHAM",
+  "zone": "Kozhikode",
+  "slug": "ihsan-dars-perumugham",
+  "category": "JUNIOR",
+  "stage1": "08. ഗ്രന്ഥവായന"
+ },
+ {
+  "code": "CJ178",
+  "name": "MUHAMMED MUSTHAFA CM ANCHACHAVIDI",
+  "darsname": "IHSAN DARS PERUMUGHAM",
+  "darsplace": "PERUMUGHAM",
+  "zone": "Kozhikode",
+  "slug": "ihsan-dars-perumugham",
+  "category": "JUNIOR",
+  "stage1": "11. മാലപ്പാട്ട്"
+ },
+ {
+  "code": "CJ187",
+  "name": "HAFIZ MUHAMMED ANFAS M VAZHIKKADAVU",
+  "darsname": "IHSAN DARS PERUMUGHAM",
+  "darsplace": "PERUMUGHAM",
+  "zone": "Kozhikode",
+  "slug": "ihsan-dars-perumugham",
+  "category": "JUNIOR",
+  "stage1": "12. ഗാനം ഉറുദു",
+  "stage2": "18. മദ്ഹുന്നബി",
+  "stage3": "09. ഗാനം അറബി",
+  "groupstage1": "19. അറബി സംഘഗാനം",
+  "groupstage2": "20. മലയാള സമൂഹ ഗാനം"
  },
  {
   "code": "CJ173",
@@ -1773,16 +1753,6 @@
   "category": "JUNIOR",
   "stage1": "13. കഥ പറച്ചില്‍",
   "stage2": "16. പദപ്പയറ്റ് അറബി"
- },
- {
-  "code": "CJ174",
-  "name": "MUHAMMED HINAN .K",
-  "darsname": "IHSAN DARS PERUMUGHAM",
-  "darsplace": "PERUMUGHAM",
-  "zone": "Kozhikode",
-  "slug": "ihsan-dars-perumugham",
-  "category": "JUNIOR",
-  "stage1": "04. പ്രസംഗം അറബി"
  },
  {
   "code": "CJ175",
@@ -1807,25 +1777,14 @@
   "offstage1": "22. സുഡോക്കു"
  },
  {
-  "code": "CJ177",
-  "name": "MUHAMMED MUBARAK C P VENGARA",
+  "code": "CJ168",
+  "name": "SAYED FADIL MUNAFFER",
   "darsname": "IHSAN DARS PERUMUGHAM",
   "darsplace": "PERUMUGHAM",
   "zone": "Kozhikode",
   "slug": "ihsan-dars-perumugham",
   "category": "JUNIOR",
-  "stage1": "05. പ്രസംഗം മലയാളം",
-  "offstage1": "27. നിഘണ്ടു നിര്‍മ്മാണം"
- },
- {
-  "code": "CJ178",
-  "name": "MUHAMMED MUSTHAFA CM ANCHACHAVIDI",
-  "darsname": "IHSAN DARS PERUMUGHAM",
-  "darsplace": "PERUMUGHAM",
-  "zone": "Kozhikode",
-  "slug": "ihsan-dars-perumugham",
-  "category": "JUNIOR",
-  "stage1": "11. മാലപ്പാട്ട്"
+  "stage1": "17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്"
  },
  {
   "code": "CJ179",
@@ -1838,37 +1797,6 @@
   "offstage1": "21. ചിത്രരചന"
  },
  {
-  "code": "CJ180",
-  "name": "HAFIZ FIYAS MUHAMMED",
-  "darsname": "IHSAN DARS PERUMUGHAM",
-  "darsplace": "PERUMUGHAM",
-  "zone": "Kozhikode",
-  "slug": "ihsan-dars-perumugham",
-  "category": "JUNIOR",
-  "stage1": "08. ഗ്രന്ഥവായന"
- },
- {
-  "code": "CJ181",
-  "name": "HAFIZ MUHAMMED RAFI VP KAMBLAKKAD",
-  "darsname": "IHSAN DARS PERUMUGHAM",
-  "darsplace": "PERUMUGHAM",
-  "zone": "Kozhikode",
-  "slug": "ihsan-dars-perumugham",
-  "category": "JUNIOR",
-  "stage1": "06. പ്രസംഗം ഉറുദു"
- },
- {
-  "code": "CJ182",
-  "name": "MUHAMMED NIHAL V VELLAMUNDA",
-  "darsname": "IHSAN DARS PERUMUGHAM",
-  "darsplace": "PERUMUGHAM",
-  "zone": "Kozhikode",
-  "slug": "ihsan-dars-perumugham",
-  "category": "JUNIOR",
-  "stage1": "07. പ്രസംഗം ഇംഗ്ലീഷ്",
-  "offstage1": "25. കേട്ടെഴുത്ത്"
- },
- {
   "code": "CJ183",
   "name": "MUHAMMED AMAN T VELIMUKK",
   "darsname": "IHSAN DARS PERUMUGHAM",
@@ -1877,16 +1805,6 @@
   "slug": "ihsan-dars-perumugham",
   "category": "JUNIOR",
   "offstage1": "23. മെമ്മറി ടെസ്റ്റ്"
- },
- {
-  "code": "CJ184",
-  "name": "NASIM AFLAH KT THENNALA",
-  "darsname": "IHSAN DARS PERUMUGHAM",
-  "darsplace": "PERUMUGHAM",
-  "zone": "Kozhikode",
-  "slug": "ihsan-dars-perumugham",
-  "category": "JUNIOR",
-  "offstage1": "26. പോസ്റ്റര്‍ ഡിസൈനിംഗ്"
  },
  {
   "code": "CJ186",
@@ -1900,18 +1818,24 @@
   "offstage2": "30. പ്രശ്‌നോത്തരി"
  },
  {
-  "code": "CJ187",
-  "name": "HAFIZ MUHAMMED ANFAS M VAZHIKKADAVU",
+  "code": "CJ184",
+  "name": "NASIM AFLAH KT THENNALA",
   "darsname": "IHSAN DARS PERUMUGHAM",
   "darsplace": "PERUMUGHAM",
   "zone": "Kozhikode",
   "slug": "ihsan-dars-perumugham",
   "category": "JUNIOR",
-  "stage1": "12. ഗാനം ഉറുദു",
-  "stage2": "18. മദ്ഹുന്നബി",
-  "stage3": "09. ഗാനം അറബി",
-  "groupstage1": "19. അറബി സംഘഗാനം",
-  "groupstage2": "20. മലയാള സമൂഹ ഗാനം"
+  "offstage1": "26. പോസ്റ്റര്‍ ഡിസൈനിംഗ്"
+ },
+ {
+  "code": "CJ171",
+  "name": "MUHAMMED SINAN CP",
+  "darsname": "IHSAN DARS PERUMUGHAM",
+  "darsplace": "PERUMUGHAM",
+  "zone": "Kozhikode",
+  "slug": "ihsan-dars-perumugham",
+  "category": "JUNIOR",
+  "offstage1": "28. തശ്കീല്‍"
  },
  {
   "code": "CS593",
@@ -1925,38 +1849,16 @@
   "stage2": "03. വാങ്ക്"
  },
  {
-  "code": "CS594",
-  "name": "MUHAMMED KAMIL MUBARAK .M PALLIKKAL BAZAR",
+  "code": "CS604",
+  "name": "HAFIZ SAYYID SHUHAIB SAQHAF KUTTIYADI",
   "darsname": "IHSAN DARS PERUMUGHAM",
   "darsplace": "PERUMUGHAM",
   "zone": "Kozhikode",
   "slug": "ihsan-dars-perumugham",
   "category": "SENIOR",
-  "stage1": "14. അനൗണ്‍സ്‌മെന്റ്"
- },
- {
-  "code": "CS595",
-  "name": "HAFIZ MUNAWIR ALI P EDAYATTUR",
-  "darsname": "IHSAN DARS PERUMUGHAM",
-  "darsplace": "PERUMUGHAM",
-  "zone": "Kozhikode",
-  "slug": "ihsan-dars-perumugham",
-  "category": "SENIOR",
-  "stage1": "06. പ്രസംഗം മലയാളം",
-  "offstage1": "34. കവിതാ രചന",
-  "offstage2": "35. നിഘണ്ടു നിര്‍മ്മാണം",
-  "offstage3": "33. മുദ്രവാക്യ രചന"
- },
- {
-  "code": "CS596",
-  "name": "HAFIZ MUHAMMAD MIDLAJ K KAMBURAM",
-  "darsname": "IHSAN DARS PERUMUGHAM",
-  "darsplace": "PERUMUGHAM",
-  "zone": "Kozhikode",
-  "slug": "ihsan-dars-perumugham",
-  "category": "SENIOR",
-  "offstage1": "22. പോസ്റ്റര്‍ ഡിസൈനിംഗ്",
-  "offstage2": "24. ഖത്തുറുഖഈ"
+  "stage1": "02. ഹിഫ്‌ള്",
+  "stage2": "10. ഖുഥ്ബ",
+  "groupstage1": "19. ഖസ്വീദ പാരായണം"
  },
  {
   "code": "CS597",
@@ -1973,6 +1875,29 @@
   "offstage3": "38. തശ്കീല്‍"
  },
  {
+  "code": "CS603",
+  "name": "HAFIZ MUHAMMED MURSHID PV VATTAMKULAM",
+  "darsname": "IHSAN DARS PERUMUGHAM",
+  "darsplace": "PERUMUGHAM",
+  "zone": "Kozhikode",
+  "slug": "ihsan-dars-perumugham",
+  "category": "SENIOR",
+  "stage1": "05. വഅ്‌ള്"
+ },
+ {
+  "code": "CS595",
+  "name": "HAFIZ MUNAWIR ALI P EDAYATTUR",
+  "darsname": "IHSAN DARS PERUMUGHAM",
+  "darsplace": "PERUMUGHAM",
+  "zone": "Kozhikode",
+  "slug": "ihsan-dars-perumugham",
+  "category": "SENIOR",
+  "stage1": "06. പ്രസംഗം മലയാളം",
+  "offstage1": "34. കവിതാ രചന",
+  "offstage2": "35. നിഘണ്ടു നിര്‍മ്മാണം",
+  "offstage3": "33. മുദ്രവാക്യ രചന"
+ },
+ {
   "code": "CS598",
   "name": "HAFIZ MUHAMMED FAVAS TK MANJERI",
   "darsname": "IHSAN DARS PERUMUGHAM",
@@ -1985,15 +1910,26 @@
   "groupoffstage": "40. പത്രനിര്‍മാണം"
  },
  {
-  "code": "CS599",
-  "name": "HAFIZ ABDUL BASITH PULAMANTHOL",
+  "code": "CS609",
+  "name": "HAFIZ ABDUL RAOOF MUNDAKKULLAM",
   "darsname": "IHSAN DARS PERUMUGHAM",
   "darsplace": "PERUMUGHAM",
   "zone": "Kozhikode",
   "slug": "ihsan-dars-perumugham",
   "category": "SENIOR",
-  "offstage1": "32. തലവാചക നിര്‍മ്മാണം",
-  "offstage2": "39. പ്രശ്‌നോത്തരി"
+  "stage1": "07. പ്രസംഗം അറബി"
+ },
+ {
+  "code": "CS607",
+  "name": "HAFIZ PK MUHAMMED CHERUMOTH",
+  "darsname": "IHSAN DARS PERUMUGHAM",
+  "darsplace": "PERUMUGHAM",
+  "zone": "Kozhikode",
+  "slug": "ihsan-dars-perumugham",
+  "category": "SENIOR",
+  "stage1": "08. പ്രസംഗം ഉറുദു",
+  "offstage1": "26. വിവര്‍ത്തനം",
+  "offstage2": "28. പ്രബന്ധം അറബി"
  },
  {
   "code": "CS600",
@@ -2004,6 +1940,36 @@
   "slug": "ihsan-dars-perumugham",
   "category": "SENIOR",
   "stage1": "09. പ്രസംഗം ഇംഗ്ലീഷ്"
+ },
+ {
+  "code": "CS652",
+  "name": "FASIL KANNUR",
+  "darsname": "IHSAN DARS PERUMUGHAM",
+  "darsplace": "PERUMUGHAM",
+  "zone": "Kozhikode",
+  "slug": "ihsan-dars-perumugham",
+  "category": "SENIOR",
+  "stage1": "12. കവിതാലാപനം മലയാളം"
+ },
+ {
+  "code": "CS606",
+  "name": "UMER P NENMINI",
+  "darsname": "IHSAN DARS PERUMUGHAM",
+  "darsplace": "PERUMUGHAM",
+  "zone": "Kozhikode",
+  "slug": "ihsan-dars-perumugham",
+  "category": "SENIOR",
+  "stage1": "13. മുശാഅറ"
+ },
+ {
+  "code": "CS594",
+  "name": "MUHAMMED KAMIL MUBARAK .M PALLIKKAL BAZAR",
+  "darsname": "IHSAN DARS PERUMUGHAM",
+  "darsplace": "PERUMUGHAM",
+  "zone": "Kozhikode",
+  "slug": "ihsan-dars-perumugham",
+  "category": "SENIOR",
+  "stage1": "14. അനൗണ്‍സ്‌മെന്റ്"
  },
  {
   "code": "CS601",
@@ -2019,37 +1985,15 @@
   "offstage1": "30. പ്രബന്ധം മലയാളം"
  },
  {
-  "code": "CS602",
-  "name": "HAFIZ MUHAMMED ANFID PONNANI",
+  "code": "CS608",
+  "name": "HAFIZ ABDUL LATHEEF T ARYAMBAVU",
   "darsname": "IHSAN DARS PERUMUGHAM",
   "darsplace": "PERUMUGHAM",
   "zone": "Kozhikode",
   "slug": "ihsan-dars-perumugham",
   "category": "SENIOR",
-  "offstage1": "27. വിവര്‍ത്തനം",
-  "offstage2": "29. പ്രബന്ധം ഇംഗ്ലീഷ്"
- },
- {
-  "code": "CS603",
-  "name": "HAFIZ MUHAMMED MURSHID PV VATTAMKULAM",
-  "darsname": "IHSAN DARS PERUMUGHAM",
-  "darsplace": "PERUMUGHAM",
-  "zone": "Kozhikode",
-  "slug": "ihsan-dars-perumugham",
-  "category": "SENIOR",
-  "stage1": "05. വഅ്‌ള്"
- },
- {
-  "code": "CS604",
-  "name": "HAFIZ SAYYID SHUHAIB SAQHAF KUTTIYADI",
-  "darsname": "IHSAN DARS PERUMUGHAM",
-  "darsplace": "PERUMUGHAM",
-  "zone": "Kozhikode",
-  "slug": "ihsan-dars-perumugham",
-  "category": "SENIOR",
-  "stage1": "02. ഹിഫ്‌ള്",
-  "stage2": "10. ഖുഥ്ബ",
-  "groupstage1": "19. ഖസ്വീദ പാരായണം"
+  "stage1": "17. പാടിപ്പറയല്‍",
+  "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്"
  },
  {
   "code": "CS605",
@@ -2063,57 +2007,37 @@
   "offstage2": "23. ഖത്തുന്നസ്ഖ്"
  },
  {
-  "code": "CS606",
-  "name": "UMER P NENMINI",
+  "code": "CS596",
+  "name": "HAFIZ MUHAMMAD MIDLAJ K KAMBURAM",
   "darsname": "IHSAN DARS PERUMUGHAM",
   "darsplace": "PERUMUGHAM",
   "zone": "Kozhikode",
   "slug": "ihsan-dars-perumugham",
   "category": "SENIOR",
-  "stage1": "13. മുശാഅറ"
+  "offstage1": "22. പോസ്റ്റര്‍ ഡിസൈനിംഗ്",
+  "offstage2": "24. ഖത്തുറുഖഈ"
  },
  {
-  "code": "CS607",
-  "name": "HAFIZ PK MUHAMMED CHERUMOTH",
+  "code": "CS602",
+  "name": "HAFIZ MUHAMMED ANFID PONNANI",
   "darsname": "IHSAN DARS PERUMUGHAM",
   "darsplace": "PERUMUGHAM",
   "zone": "Kozhikode",
   "slug": "ihsan-dars-perumugham",
   "category": "SENIOR",
-  "stage1": "08. പ്രസംഗം ഉറുദു",
-  "offstage1": "26. വിവര്‍ത്തനം",
-  "offstage2": "28. പ്രബന്ധം അറബി"
+  "offstage1": "27. വിവര്‍ത്തനം",
+  "offstage2": "29. പ്രബന്ധം ഇംഗ്ലീഷ്"
  },
  {
-  "code": "CS608",
-  "name": "HAFIZ ABDUL LATHEEF T ARYAMBAVU",
+  "code": "CS599",
+  "name": "HAFIZ ABDUL BASITH PULAMANTHOL",
   "darsname": "IHSAN DARS PERUMUGHAM",
   "darsplace": "PERUMUGHAM",
   "zone": "Kozhikode",
   "slug": "ihsan-dars-perumugham",
   "category": "SENIOR",
-  "stage1": "17. പാടിപ്പറയല്‍",
-  "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്"
- },
- {
-  "code": "CS609",
-  "name": "HAFIZ ABDUL RAOOF MUNDAKKULLAM",
-  "darsname": "IHSAN DARS PERUMUGHAM",
-  "darsplace": "PERUMUGHAM",
-  "zone": "Kozhikode",
-  "slug": "ihsan-dars-perumugham",
-  "category": "SENIOR",
-  "stage1": "07. പ്രസംഗം അറബി"
- },
- {
-  "code": "CS652",
-  "name": "FASIL KANNUR",
-  "darsname": "IHSAN DARS PERUMUGHAM",
-  "darsplace": "PERUMUGHAM",
-  "zone": "Kozhikode",
-  "slug": "ihsan-dars-perumugham",
-  "category": "SENIOR",
-  "stage1": "12. കവിതാലാപനം മലയാളം"
+  "offstage1": "32. തലവാചക നിര്‍മ്മാണം",
+  "offstage2": "39. പ്രശ്‌നോത്തരി"
  },
  {
   "code": "CJ188",
@@ -2131,31 +2055,32 @@
   "offstage3": "25. കേട്ടെഴുത്ത്"
  },
  {
-  "code": "CS610",
-  "name": "MUHAMMED SHAHAS P , CHERANDATHUR",
+  "code": "CS617",
+  "name": "MUHAMMED PP, VANIMEL",
   "darsname": "KETTUNGAL DARS, KETTUNGAL",
   "darsplace": "EDACHERI",
   "zone": "Kozhikode",
   "slug": "kettungal-dars-kettungal",
   "category": "SENIOR",
-  "stage1": "12. കവിതാലാപനം മലയാളം",
-  "stage2": "14. അനൗണ്‍സ്‌മെന്റ്",
-  "offstage1": "34. കവിതാ രചന",
-  "offstage2": "27. വിവര്‍ത്തനം",
-  "offstage3": "32. തലവാചക നിര്‍മ്മാണം"
+  "stage1": "01. ഖിറാഅത്ത്",
+  "stage2": "07. പ്രസംഗം അറബി",
+  "stage3": "10. ഖുഥ്ബ",
+  "offstage1": "21. അറബിക് കാലിഗ്രഫി",
+  "offstage2": "22. പോസ്റ്റര്‍ ഡിസൈനിംഗ്",
+  "offstage3": "35. നിഘണ്ടു നിര്‍മ്മാണം"
  },
  {
-  "code": "CS611",
-  "name": "MUHAMMED DILSHAD. A , AROOR",
+  "code": "CS615",
+  "name": "JIYAD ABDUL JALEEL",
   "darsname": "KETTUNGAL DARS, KETTUNGAL",
   "darsplace": "EDACHERI",
   "zone": "Kozhikode",
   "slug": "kettungal-dars-kettungal",
   "category": "SENIOR",
-  "stage1": "09. പ്രസംഗം ഇംഗ്ലീഷ്",
-  "offstage1": "23. ഖത്തുന്നസ്ഖ്",
-  "offstage2": "24. ഖത്തുറുഖഈ",
-  "offstage3": "39. പ്രശ്‌നോത്തരി"
+  "stage1": "03. വാങ്ക്",
+  "stage2": "05. വഅ്‌ള്",
+  "stage3": "02. ഹിഫ്‌ള്",
+  "offstage1": "31. റിപ്പോര്‍ട്ടിംഗ്"
  },
  {
   "code": "CS612",
@@ -2173,17 +2098,6 @@
   "offstage3": "33. മുദ്രവാക്യ രചന"
  },
  {
-  "code": "CS613",
-  "name": "DAYYAN. T, NALAM MAIL",
-  "darsname": "KETTUNGAL DARS, KETTUNGAL",
-  "darsplace": "EDACHERI",
-  "zone": "Kozhikode",
-  "slug": "kettungal-dars-kettungal",
-  "category": "SENIOR",
-  "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
-  "offstage1": "29. പ്രബന്ധം ഇംഗ്ലീഷ്"
- },
- {
   "code": "CS614",
   "name": "MUHAMMED SABITH P",
   "darsname": "KETTUNGAL DARS, KETTUNGAL",
@@ -2198,17 +2112,31 @@
   "offstage3": "38. തശ്കീല്‍"
  },
  {
-  "code": "CS615",
-  "name": "JIYAD ABDUL JALEEL",
+  "code": "CS611",
+  "name": "MUHAMMED DILSHAD. A , AROOR",
   "darsname": "KETTUNGAL DARS, KETTUNGAL",
   "darsplace": "EDACHERI",
   "zone": "Kozhikode",
   "slug": "kettungal-dars-kettungal",
   "category": "SENIOR",
-  "stage1": "03. വാങ്ക്",
-  "stage2": "05. വഅ്‌ള്",
-  "stage3": "02. ഹിഫ്‌ള്",
-  "offstage1": "31. റിപ്പോര്‍ട്ടിംഗ്"
+  "stage1": "09. പ്രസംഗം ഇംഗ്ലീഷ്",
+  "offstage1": "23. ഖത്തുന്നസ്ഖ്",
+  "offstage2": "24. ഖത്തുറുഖഈ",
+  "offstage3": "39. പ്രശ്‌നോത്തരി"
+ },
+ {
+  "code": "CS610",
+  "name": "MUHAMMED SHAHAS P , CHERANDATHUR",
+  "darsname": "KETTUNGAL DARS, KETTUNGAL",
+  "darsplace": "EDACHERI",
+  "zone": "Kozhikode",
+  "slug": "kettungal-dars-kettungal",
+  "category": "SENIOR",
+  "stage1": "12. കവിതാലാപനം മലയാളം",
+  "stage2": "14. അനൗണ്‍സ്‌മെന്റ്",
+  "offstage1": "34. കവിതാ രചന",
+  "offstage2": "27. വിവര്‍ത്തനം",
+  "offstage3": "32. തലവാചക നിര്‍മ്മാണം"
  },
  {
   "code": "CS616",
@@ -2223,19 +2151,28 @@
   "offstage1": "36. അടിക്കുറിപ്പ്"
  },
  {
-  "code": "CS617",
-  "name": "MUHAMMED PP, VANIMEL",
+  "code": "CS613",
+  "name": "DAYYAN. T, NALAM MAIL",
   "darsname": "KETTUNGAL DARS, KETTUNGAL",
   "darsplace": "EDACHERI",
   "zone": "Kozhikode",
   "slug": "kettungal-dars-kettungal",
   "category": "SENIOR",
+  "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
+  "offstage1": "29. പ്രബന്ധം ഇംഗ്ലീഷ്"
+ },
+ {
+  "code": "CJ191",
+  "name": "MUHAMMED SINAN.T MACHAKULAM",
+  "darsname": "MACHAKULAM DARAS PULLALUR",
+  "darsplace": "PULLALUR",
+  "zone": "Kozhikode",
+  "slug": "machakulam-daras-pullalur",
+  "category": "JUNIOR",
   "stage1": "01. ഖിറാഅത്ത്",
-  "stage2": "07. പ്രസംഗം അറബി",
-  "stage3": "10. ഖുഥ്ബ",
-  "offstage1": "21. അറബിക് കാലിഗ്രഫി",
-  "offstage2": "22. പോസ്റ്റര്‍ ഡിസൈനിംഗ്",
-  "offstage3": "35. നിഘണ്ടു നിര്‍മ്മാണം"
+  "stage2": "03. വാങ്ക്",
+  "stage3": "04. പ്രസംഗം അറബി",
+  "offstage1": "26. പോസ്റ്റര്‍ ഡിസൈനിംഗ്"
  },
  {
   "code": "CJ189",
@@ -2254,6 +2191,28 @@
   "offstage3": "30. പ്രശ്‌നോത്തരി"
  },
  {
+  "code": "CJ193",
+  "name": "MUHAMMED SIYAD K U DESAMANGALAM",
+  "darsname": "MACHAKULAM DARAS PULLALUR",
+  "darsplace": "PULLALUR",
+  "zone": "Kozhikode",
+  "slug": "machakulam-daras-pullalur",
+  "category": "JUNIOR",
+  "stage1": "05. പ്രസംഗം മലയാളം",
+  "stage2": "13. കഥ പറച്ചില്‍"
+ },
+ {
+  "code": "CJ196",
+  "name": "AJMAL N PATTAMBI",
+  "darsname": "MACHAKULAM DARAS PULLALUR",
+  "darsplace": "PULLALUR",
+  "zone": "Kozhikode",
+  "slug": "machakulam-daras-pullalur",
+  "category": "JUNIOR",
+  "stage1": "07. പ്രസംഗം ഇംഗ്ലീഷ്",
+  "stage2": "17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്"
+ },
+ {
   "code": "CJ190",
   "name": "IBRAHIM BADUSHA M V PERIGANNUR",
   "darsname": "MACHAKULAM DARAS PULLALUR",
@@ -2266,41 +2225,6 @@
   "stage3": "16. പദപ്പയറ്റ് അറബി",
   "offstage1": "25. കേട്ടെഴുത്ത്",
   "offstage2": "28. തശ്കീല്‍"
- },
- {
-  "code": "CJ191",
-  "name": "MUHAMMED SINAN.T MACHAKULAM",
-  "darsname": "MACHAKULAM DARAS PULLALUR",
-  "darsplace": "PULLALUR",
-  "zone": "Kozhikode",
-  "slug": "machakulam-daras-pullalur",
-  "category": "JUNIOR",
-  "stage1": "01. ഖിറാഅത്ത്",
-  "stage2": "03. വാങ്ക്",
-  "stage3": "04. പ്രസംഗം അറബി",
-  "offstage1": "26. പോസ്റ്റര്‍ ഡിസൈനിംഗ്"
- },
- {
-  "code": "CJ192",
-  "name": "AJMAL M V KARUKAPUTHUR",
-  "darsname": "MACHAKULAM DARAS PULLALUR",
-  "darsplace": "PULLALUR",
-  "zone": "Kozhikode",
-  "slug": "machakulam-daras-pullalur",
-  "category": "JUNIOR",
-  "offstage1": "22. സുഡോക്കു",
-  "offstage2": "23. മെമ്മറി ടെസ്റ്റ്"
- },
- {
-  "code": "CJ193",
-  "name": "MUHAMMED SIYAD K U DESAMANGALAM",
-  "darsname": "MACHAKULAM DARAS PULLALUR",
-  "darsplace": "PULLALUR",
-  "zone": "Kozhikode",
-  "slug": "machakulam-daras-pullalur",
-  "category": "JUNIOR",
-  "stage1": "05. പ്രസംഗം മലയാളം",
-  "stage2": "13. കഥ പറച്ചില്‍"
  },
  {
   "code": "CJ194",
@@ -2326,26 +2250,15 @@
   "offstage1": "21. ചിത്രരചന"
  },
  {
-  "code": "CJ196",
-  "name": "AJMAL N PATTAMBI",
+  "code": "CJ192",
+  "name": "AJMAL M V KARUKAPUTHUR",
   "darsname": "MACHAKULAM DARAS PULLALUR",
   "darsplace": "PULLALUR",
   "zone": "Kozhikode",
   "slug": "machakulam-daras-pullalur",
   "category": "JUNIOR",
-  "stage1": "07. പ്രസംഗം ഇംഗ്ലീഷ്",
-  "stage2": "17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്"
- },
- {
-  "code": "CS618",
-  "name": "MUBARAK T.M DESAMANGALAM",
-  "darsname": "MACHAKULAM DARAS PULLALUR",
-  "darsplace": "PULLALUR",
-  "zone": "Kozhikode",
-  "slug": "machakulam-daras-pullalur",
-  "category": "SENIOR",
-  "stage1": "03. വാങ്ക്",
-  "stage2": "05. വഅ്‌ള്"
+  "offstage1": "22. സുഡോക്കു",
+  "offstage2": "23. മെമ്മറി ടെസ്റ്റ്"
  },
  {
   "code": "CS619",
@@ -2359,15 +2272,27 @@
   "stage2": "06. പ്രസംഗം മലയാളം"
  },
  {
-  "code": "CJ226",
-  "name": "MUHAMED SHINAS",
+  "code": "CS618",
+  "name": "MUBARAK T.M DESAMANGALAM",
+  "darsname": "MACHAKULAM DARAS PULLALUR",
+  "darsplace": "PULLALUR",
+  "zone": "Kozhikode",
+  "slug": "machakulam-daras-pullalur",
+  "category": "SENIOR",
+  "stage1": "03. വാങ്ക്",
+  "stage2": "05. വഅ്‌ള്"
+ },
+ {
+  "code": "CJ232",
+  "name": "MUHAMED ABDUL HAADHI",
   "darsname": "MAKHDOOMIA MARKAZUL ULAMA DARS KUNHIPALLI",
   "darsplace": "KUNHIPPALLI",
   "zone": "Kozhikode",
   "slug": "makhdoomia-markazul-ulama-dars-kunhipalli",
   "category": "JUNIOR",
-  "offstage1": "21. ചിത്രരചന",
-  "offstage2": "26. പോസ്റ്റര്‍ ഡിസൈനിംഗ്"
+  "stage1": "01. ഖിറാഅത്ത്",
+  "stage2": "03. വാങ്ക്",
+  "stage3": "04. പ്രസംഗം അറബി"
  },
  {
   "code": "CJ227",
@@ -2383,18 +2308,6 @@
   "offstage1": "25. കേട്ടെഴുത്ത്"
  },
  {
-  "code": "CJ229",
-  "name": "MUHAMED SINAN KUNHIPPALLI",
-  "darsname": "MAKHDOOMIA MARKAZUL ULAMA DARS KUNHIPALLI",
-  "darsplace": "KUNHIPPALLI",
-  "zone": "Kozhikode",
-  "slug": "makhdoomia-markazul-ulama-dars-kunhipalli",
-  "category": "JUNIOR",
-  "stage1": "14. ഗദ്യവായന മലയാളം",
-  "stage2": "09. ഗാനം അറബി",
-  "stage3": "11. മാലപ്പാട്ട്"
- },
- {
   "code": "CJ230",
   "name": "NAVAS SHARAFUDHEEN",
   "darsname": "MAKHDOOMIA MARKAZUL ULAMA DARS KUNHIPALLI",
@@ -2404,6 +2317,16 @@
   "category": "JUNIOR",
   "stage1": "05. പ്രസംഗം മലയാളം",
   "offstage1": "24. ഖത്തുന്നസ്ഖ്"
+ },
+ {
+  "code": "CJ234",
+  "name": "MUHAMMED SIDHAN UV",
+  "darsname": "MAKHDOOMIA MARKAZUL ULAMA DARS KUNHIPALLI",
+  "darsplace": "KUNHIPPALLI",
+  "zone": "Kozhikode",
+  "slug": "makhdoomia-markazul-ulama-dars-kunhipalli",
+  "category": "JUNIOR",
+  "stage1": "06. പ്രസംഗം ഉറുദു"
  },
  {
   "code": "CJ231",
@@ -2422,28 +2345,6 @@
   "offstage3": "28. തശ്കീല്‍"
  },
  {
-  "code": "CJ232",
-  "name": "MUHAMED ABDUL HAADHI",
-  "darsname": "MAKHDOOMIA MARKAZUL ULAMA DARS KUNHIPALLI",
-  "darsplace": "KUNHIPPALLI",
-  "zone": "Kozhikode",
-  "slug": "makhdoomia-markazul-ulama-dars-kunhipalli",
-  "category": "JUNIOR",
-  "stage1": "01. ഖിറാഅത്ത്",
-  "stage2": "03. വാങ്ക്",
-  "stage3": "04. പ്രസംഗം അറബി"
- },
- {
-  "code": "CJ234",
-  "name": "MUHAMMED SIDHAN UV",
-  "darsname": "MAKHDOOMIA MARKAZUL ULAMA DARS KUNHIPALLI",
-  "darsplace": "KUNHIPPALLI",
-  "zone": "Kozhikode",
-  "slug": "makhdoomia-markazul-ulama-dars-kunhipalli",
-  "category": "JUNIOR",
-  "stage1": "06. പ്രസംഗം ഉറുദു"
- },
- {
   "code": "CJ235",
   "name": "MUHAMED IRSHAD P P",
   "darsname": "MAKHDOOMIA MARKAZUL ULAMA DARS KUNHIPALLI",
@@ -2453,6 +2354,18 @@
   "category": "JUNIOR",
   "stage1": "13. കഥ പറച്ചില്‍",
   "stage2": "16. പദപ്പയറ്റ് അറബി"
+ },
+ {
+  "code": "CJ229",
+  "name": "MUHAMED SINAN KUNHIPPALLI",
+  "darsname": "MAKHDOOMIA MARKAZUL ULAMA DARS KUNHIPALLI",
+  "darsplace": "KUNHIPPALLI",
+  "zone": "Kozhikode",
+  "slug": "makhdoomia-markazul-ulama-dars-kunhipalli",
+  "category": "JUNIOR",
+  "stage1": "14. ഗദ്യവായന മലയാളം",
+  "stage2": "09. ഗാനം അറബി",
+  "stage3": "11. മാലപ്പാട്ട്"
  },
  {
   "code": "CJ236",
@@ -2470,32 +2383,15 @@
   "offstage3": "29. മലയാള പ്രബന്ധം"
  },
  {
-  "code": "CS633",
-  "name": "MUHAMED NIJAS RK",
+  "code": "CJ226",
+  "name": "MUHAMED SHINAS",
   "darsname": "MAKHDOOMIA MARKAZUL ULAMA DARS KUNHIPALLI",
   "darsplace": "KUNHIPPALLI",
   "zone": "Kozhikode",
   "slug": "makhdoomia-markazul-ulama-dars-kunhipalli",
-  "category": "SENIOR",
-  "stage1": "03. വാങ്ക്",
-  "stage2": "17. പാടിപ്പറയല്‍",
-  "offstage1": "33. മുദ്രവാക്യ രചന",
-  "offstage2": "22. പോസ്റ്റര്‍ ഡിസൈനിംഗ്",
-  "groupoffstage": "40. പത്രനിര്‍മാണം"
- },
- {
-  "code": "CS634",
-  "name": "ABDUL RAOOF VELLAMUNDA",
-  "darsname": "MAKHDOOMIA MARKAZUL ULAMA DARS KUNHIPALLI",
-  "darsplace": "KUNHIPPALLI",
-  "zone": "Kozhikode",
-  "slug": "makhdoomia-markazul-ulama-dars-kunhipalli",
-  "category": "SENIOR",
-  "stage1": "08. പ്രസംഗം ഉറുദു",
-  "stage2": "16. നിമിഷപ്രസംഗം",
-  "groupstage1": "20. പ്രോഗ്രാം സെറ്റിംഗ്",
-  "offstage1": "32. തലവാചക നിര്‍മ്മാണം",
-  "offstage2": "34. കവിതാ രചന"
+  "category": "JUNIOR",
+  "offstage1": "21. ചിത്രരചന",
+  "offstage2": "26. പോസ്റ്റര്‍ ഡിസൈനിംഗ്"
  },
  {
   "code": "CS635",
@@ -2510,6 +2406,20 @@
   "offstage1": "36. അടിക്കുറിപ്പ്",
   "offstage2": "38. തശ്കീല്‍",
   "offstage3": "39. പ്രശ്‌നോത്തരി"
+ },
+ {
+  "code": "CS633",
+  "name": "MUHAMED NIJAS RK",
+  "darsname": "MAKHDOOMIA MARKAZUL ULAMA DARS KUNHIPALLI",
+  "darsplace": "KUNHIPPALLI",
+  "zone": "Kozhikode",
+  "slug": "makhdoomia-markazul-ulama-dars-kunhipalli",
+  "category": "SENIOR",
+  "stage1": "03. വാങ്ക്",
+  "stage2": "17. പാടിപ്പറയല്‍",
+  "offstage1": "33. മുദ്രവാക്യ രചന",
+  "offstage2": "22. പോസ്റ്റര്‍ ഡിസൈനിംഗ്",
+  "groupoffstage": "40. പത്രനിര്‍മാണം"
  },
  {
   "code": "CS636",
@@ -2544,19 +2454,18 @@
   "offstage3": "35. നിഘണ്ടു നിര്‍മ്മാണം"
  },
  {
-  "code": "CS640",
-  "name": "MUHAMED SINAN TK",
+  "code": "CS634",
+  "name": "ABDUL RAOOF VELLAMUNDA",
   "darsname": "MAKHDOOMIA MARKAZUL ULAMA DARS KUNHIPALLI",
   "darsplace": "KUNHIPPALLI",
   "zone": "Kozhikode",
   "slug": "makhdoomia-markazul-ulama-dars-kunhipalli",
   "category": "SENIOR",
-  "stage1": "11. ഗ്രന്ഥ വായന",
-  "stage2": "15. പ്രബന്ധാവതരണം",
-  "stage3": "07. പ്രസംഗം അറബി",
-  "offstage1": "25. വിവര്‍ത്തനം",
-  "offstage2": "21. അറബിക് കാലിഗ്രഫി",
-  "offstage3": "26. വിവര്‍ത്തനം"
+  "stage1": "08. പ്രസംഗം ഉറുദു",
+  "stage2": "16. നിമിഷപ്രസംഗം",
+  "groupstage1": "20. പ്രോഗ്രാം സെറ്റിംഗ്",
+  "offstage1": "32. തലവാചക നിര്‍മ്മാണം",
+  "offstage2": "34. കവിതാ രചന"
  },
  {
   "code": "CS641",
@@ -2572,85 +2481,19 @@
   "offstage3": "37. പദ സമ്പാദനം"
  },
  {
-  "code": "CJ199",
-  "name": "MUHAMM ZAHAN THODANNUR",
-  "darsname": "MALARAKKAL DARS VILLIAPPALLY",
-  "darsplace": "MALARAKKAL VILLIAPPALLY",
+  "code": "CS640",
+  "name": "MUHAMED SINAN TK",
+  "darsname": "MAKHDOOMIA MARKAZUL ULAMA DARS KUNHIPALLI",
+  "darsplace": "KUNHIPPALLI",
   "zone": "Kozhikode",
-  "slug": "malarakkal-dars-villiappally",
-  "category": "JUNIOR",
-  "stage1": "06. പ്രസംഗം ഉറുദു",
-  "stage2": "14. ഗദ്യവായന മലയാളം",
-  "stage3": "15. മുശാഅറ",
-  "offstage1": "21. ചിത്രരചന",
-  "offstage2": "25. കേട്ടെഴുത്ത്"
- },
- {
-  "code": "CJ201",
-  "name": "MUHAMMAD ARIF T KATAMERI",
-  "darsname": "MALARAKKAL DARS VILLIAPPALLY",
-  "darsplace": "MALARAKKAL VILLIAPPALLY",
-  "zone": "Kozhikode",
-  "slug": "malarakkal-dars-villiappally",
-  "category": "JUNIOR",
-  "stage1": "11. മാലപ്പാട്ട്",
-  "stage2": "09. ഗാനം അറബി",
-  "stage3": "12. ഗാനം ഉറുദു"
- },
- {
-  "code": "CJ204",
-  "name": "MUHAMMAD AFLAH PALLIYATH",
-  "darsname": "MALARAKKAL DARS VILLIAPPALLY",
-  "darsplace": "MALARAKKAL VILLIAPPALLY",
-  "zone": "Kozhikode",
-  "slug": "malarakkal-dars-villiappally",
-  "category": "JUNIOR",
-  "stage1": "05. പ്രസംഗം മലയാളം"
- },
- {
-  "code": "CJ205",
-  "name": "MUHAMMAD SHAMNAAN MEPAYYOOR",
-  "darsname": "MALARAKKAL DARS VILLIAPPALLY",
-  "darsplace": "MALARAKKAL VILLIAPPALLY",
-  "zone": "Kozhikode",
-  "slug": "malarakkal-dars-villiappally",
-  "category": "JUNIOR",
-  "stage1": "13. കഥ പറച്ചില്‍",
-  "stage2": "16. പദപ്പയറ്റ് അറബി",
-  "offstage1": "23. മെമ്മറി ടെസ്റ്റ്"
- },
- {
-  "code": "CJ206",
-  "name": "MUHAMMAD ABOOBAKAR MANIMALA",
-  "darsname": "MALARAKKAL DARS VILLIAPPALLY",
-  "darsplace": "MALARAKKAL VILLIAPPALLY",
-  "zone": "Kozhikode",
-  "slug": "malarakkal-dars-villiappally",
-  "category": "JUNIOR",
-  "stage1": "07. പ്രസംഗം ഇംഗ്ലീഷ്"
- },
- {
-  "code": "CJ207",
-  "name": "MUHAMMAD NASEEH MEPAYYOOR",
-  "darsname": "MALARAKKAL DARS VILLIAPPALLY",
-  "darsplace": "MALARAKKAL VILLIAPPALLY",
-  "zone": "Kozhikode",
-  "slug": "malarakkal-dars-villiappally",
-  "category": "JUNIOR",
-  "stage1": "17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്",
-  "offstage1": "26. പോസ്റ്റര്‍ ഡിസൈനിംഗ്"
- },
- {
-  "code": "CJ208",
-  "name": "JALAL MEPAYYOOR",
-  "darsname": "MALARAKKAL DARS VILLIAPPALLY",
-  "darsplace": "MALARAKKAL VILLIAPPALLY",
-  "zone": "Kozhikode",
-  "slug": "malarakkal-dars-villiappally",
-  "category": "JUNIOR",
-  "stage1": "04. പ്രസംഗം അറബി",
-  "stage2": "18. മദ്ഹുന്നബി",
-  "offstage1": "29. മലയാള പ്രബന്ധം"
+  "slug": "makhdoomia-markazul-ulama-dars-kunhipalli",
+  "category": "SENIOR",
+  "stage1": "11. ഗ്രന്ഥ വായന",
+  "stage2": "15. പ്രബന്ധാവതരണം",
+  "stage3": "07. പ്രസംഗം അറബി",
+  "offstage1": "25. വിവര്‍ത്തനം",
+  "offstage2": "21. അറബിക് കാലിഗ്രഫി",
+  "offstage3": "26. വിവര്‍ത്തനം"
  },
  {
   "code": "CJ209",
@@ -2668,16 +2511,85 @@
   "offstage1": "21. ചിത്രരചന"
  },
  {
-  "code": "CS620",
-  "name": "YASAR KAINATTI",
+  "code": "CJ208",
+  "name": "JALAL MEPAYYOOR",
   "darsname": "MALARAKKAL DARS VILLIAPPALLY",
   "darsplace": "MALARAKKAL VILLIAPPALLY",
   "zone": "Kozhikode",
   "slug": "malarakkal-dars-villiappally",
-  "category": "SENIOR",
-  "offstage1": "32. തലവാചക നിര്‍മ്മാണം",
-  "offstage2": "33. മുദ്രവാക്യ രചന",
-  "offstage3": "36. അടിക്കുറിപ്പ്"
+  "category": "JUNIOR",
+  "stage1": "04. പ്രസംഗം അറബി",
+  "stage2": "18. മദ്ഹുന്നബി",
+  "offstage1": "29. മലയാള പ്രബന്ധം"
+ },
+ {
+  "code": "CJ204",
+  "name": "MUHAMMAD AFLAH PALLIYATH",
+  "darsname": "MALARAKKAL DARS VILLIAPPALLY",
+  "darsplace": "MALARAKKAL VILLIAPPALLY",
+  "zone": "Kozhikode",
+  "slug": "malarakkal-dars-villiappally",
+  "category": "JUNIOR",
+  "stage1": "05. പ്രസംഗം മലയാളം"
+ },
+ {
+  "code": "CJ199",
+  "name": "MUHAMM ZAHAN THODANNUR",
+  "darsname": "MALARAKKAL DARS VILLIAPPALLY",
+  "darsplace": "MALARAKKAL VILLIAPPALLY",
+  "zone": "Kozhikode",
+  "slug": "malarakkal-dars-villiappally",
+  "category": "JUNIOR",
+  "stage1": "06. പ്രസംഗം ഉറുദു",
+  "stage2": "14. ഗദ്യവായന മലയാളം",
+  "stage3": "15. മുശാഅറ",
+  "offstage1": "21. ചിത്രരചന",
+  "offstage2": "25. കേട്ടെഴുത്ത്"
+ },
+ {
+  "code": "CJ206",
+  "name": "MUHAMMAD ABOOBAKAR MANIMALA",
+  "darsname": "MALARAKKAL DARS VILLIAPPALLY",
+  "darsplace": "MALARAKKAL VILLIAPPALLY",
+  "zone": "Kozhikode",
+  "slug": "malarakkal-dars-villiappally",
+  "category": "JUNIOR",
+  "stage1": "07. പ്രസംഗം ഇംഗ്ലീഷ്"
+ },
+ {
+  "code": "CJ201",
+  "name": "MUHAMMAD ARIF T KATAMERI",
+  "darsname": "MALARAKKAL DARS VILLIAPPALLY",
+  "darsplace": "MALARAKKAL VILLIAPPALLY",
+  "zone": "Kozhikode",
+  "slug": "malarakkal-dars-villiappally",
+  "category": "JUNIOR",
+  "stage1": "11. മാലപ്പാട്ട്",
+  "stage2": "09. ഗാനം അറബി",
+  "stage3": "12. ഗാനം ഉറുദു"
+ },
+ {
+  "code": "CJ205",
+  "name": "MUHAMMAD SHAMNAAN MEPAYYOOR",
+  "darsname": "MALARAKKAL DARS VILLIAPPALLY",
+  "darsplace": "MALARAKKAL VILLIAPPALLY",
+  "zone": "Kozhikode",
+  "slug": "malarakkal-dars-villiappally",
+  "category": "JUNIOR",
+  "stage1": "13. കഥ പറച്ചില്‍",
+  "stage2": "16. പദപ്പയറ്റ് അറബി",
+  "offstage1": "23. മെമ്മറി ടെസ്റ്റ്"
+ },
+ {
+  "code": "CJ207",
+  "name": "MUHAMMAD NASEEH MEPAYYOOR",
+  "darsname": "MALARAKKAL DARS VILLIAPPALLY",
+  "darsplace": "MALARAKKAL VILLIAPPALLY",
+  "zone": "Kozhikode",
+  "slug": "malarakkal-dars-villiappally",
+  "category": "JUNIOR",
+  "stage1": "17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്",
+  "offstage1": "26. പോസ്റ്റര്‍ ഡിസൈനിംഗ്"
  },
  {
   "code": "CS621",
@@ -2690,6 +2602,43 @@
   "offstage1": "22. പോസ്റ്റര്‍ ഡിസൈനിംഗ്",
   "offstage2": "33. മുദ്രവാക്യ രചന",
   "offstage3": "39. പ്രശ്‌നോത്തരി"
+ },
+ {
+  "code": "CS620",
+  "name": "YASAR KAINATTI",
+  "darsname": "MALARAKKAL DARS VILLIAPPALLY",
+  "darsplace": "MALARAKKAL VILLIAPPALLY",
+  "zone": "Kozhikode",
+  "slug": "malarakkal-dars-villiappally",
+  "category": "SENIOR",
+  "offstage1": "32. തലവാചക നിര്‍മ്മാണം",
+  "offstage2": "33. മുദ്രവാക്യ രചന",
+  "offstage3": "36. അടിക്കുറിപ്പ്"
+ },
+ {
+  "code": "CJ215",
+  "name": "MUHAMMAD SARFAS MAKKOOL PEEDIKA",
+  "darsname": "MANARUL HUDA DARS MAKKOOL PEEDIKA",
+  "darsplace": "MAKKOOL PEEDIKA, VADAKARA",
+  "zone": "Kozhikode",
+  "slug": "manarul-huda-dars-makkool-peedika",
+  "category": "JUNIOR",
+  "stage1": "01. ഖിറാഅത്ത്",
+  "stage2": "02. ഹിഫ്‌ള്",
+  "stage3": "04. പ്രസംഗം അറബി"
+ },
+ {
+  "code": "CJ213",
+  "name": "MUHAMMAD MUFEED MAKKOOL PEEDIKA",
+  "darsname": "MANARUL HUDA DARS MAKKOOL PEEDIKA",
+  "darsplace": "MAKKOOL PEEDIKA, VADAKARA",
+  "zone": "Kozhikode",
+  "slug": "manarul-huda-dars-makkool-peedika",
+  "category": "JUNIOR",
+  "stage1": "03. വാങ്ക്",
+  "stage2": "06. പ്രസംഗം ഉറുദു",
+  "stage3": "14. ഗദ്യവായന മലയാളം",
+  "offstage1": "25. കേട്ടെഴുത്ത്"
  },
  {
   "code": "CJ211",
@@ -2708,29 +2657,18 @@
   "offstage2": "23. മെമ്മറി ടെസ്റ്റ്"
  },
  {
-  "code": "CJ212",
-  "name": "MUHAMMAD AJFAN MAKKOOL PEEDIKA",
+  "code": "CJ216",
+  "name": "MUHAMMAD FADIL KONDOTTY",
   "darsname": "MANARUL HUDA DARS MAKKOOL PEEDIKA",
   "darsplace": "MAKKOOL PEEDIKA, VADAKARA",
   "zone": "Kozhikode",
   "slug": "manarul-huda-dars-makkool-peedika",
   "category": "JUNIOR",
-  "stage1": "12. ഗാനം ഉറുദു",
-  "stage2": "13. കഥ പറച്ചില്‍",
-  "stage3": "17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്"
- },
- {
-  "code": "CJ213",
-  "name": "MUHAMMAD MUFEED MAKKOOL PEEDIKA",
-  "darsname": "MANARUL HUDA DARS MAKKOOL PEEDIKA",
-  "darsplace": "MAKKOOL PEEDIKA, VADAKARA",
-  "zone": "Kozhikode",
-  "slug": "manarul-huda-dars-makkool-peedika",
-  "category": "JUNIOR",
-  "stage1": "03. വാങ്ക്",
-  "stage2": "06. പ്രസംഗം ഉറുദു",
-  "stage3": "14. ഗദ്യവായന മലയാളം",
-  "offstage1": "25. കേട്ടെഴുത്ത്"
+  "stage1": "09. ഗാനം അറബി",
+  "stage2": "18. മദ്ഹുന്നബി",
+  "stage3": "07. പ്രസംഗം ഇംഗ്ലീഷ്",
+  "offstage1": "27. നിഘണ്ടു നിര്‍മ്മാണം",
+  "offstage2": "29. മലയാള പ്രബന്ധം"
  },
  {
   "code": "CJ214",
@@ -2744,30 +2682,16 @@
   "offstage1": "26. പോസ്റ്റര്‍ ഡിസൈനിംഗ്"
  },
  {
-  "code": "CJ215",
-  "name": "MUHAMMAD SARFAS MAKKOOL PEEDIKA",
+  "code": "CJ212",
+  "name": "MUHAMMAD AJFAN MAKKOOL PEEDIKA",
   "darsname": "MANARUL HUDA DARS MAKKOOL PEEDIKA",
   "darsplace": "MAKKOOL PEEDIKA, VADAKARA",
   "zone": "Kozhikode",
   "slug": "manarul-huda-dars-makkool-peedika",
   "category": "JUNIOR",
-  "stage1": "01. ഖിറാഅത്ത്",
-  "stage2": "02. ഹിഫ്‌ള്",
-  "stage3": "04. പ്രസംഗം അറബി"
- },
- {
-  "code": "CJ216",
-  "name": "MUHAMMAD FADIL KONDOTTY",
-  "darsname": "MANARUL HUDA DARS MAKKOOL PEEDIKA",
-  "darsplace": "MAKKOOL PEEDIKA, VADAKARA",
-  "zone": "Kozhikode",
-  "slug": "manarul-huda-dars-makkool-peedika",
-  "category": "JUNIOR",
-  "stage1": "09. ഗാനം അറബി",
-  "stage2": "18. മദ്ഹുന്നബി",
-  "stage3": "07. പ്രസംഗം ഇംഗ്ലീഷ്",
-  "offstage1": "27. നിഘണ്ടു നിര്‍മ്മാണം",
-  "offstage2": "29. മലയാള പ്രബന്ധം"
+  "stage1": "12. ഗാനം ഉറുദു",
+  "stage2": "13. കഥ പറച്ചില്‍",
+  "stage3": "17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്"
  },
  {
   "code": "CS622",
@@ -2810,18 +2734,6 @@
   "groupstage2": "20. മലയാള സമൂഹ ഗാനം"
  },
  {
-  "code": "CJ219",
-  "name": "MOHAMMED DILSHAN",
-  "darsname": "MANBAU'SSA'ADA DARS MANIYAMBALAM",
-  "darsplace": "MANIYAMBALAM",
-  "zone": "Kozhikode",
-  "slug": "manbau'ssa'ada-dars-maniyambalam",
-  "category": "JUNIOR",
-  "stage1": "06. പ്രസംഗം ഉറുദു",
-  "stage2": "07. പ്രസംഗം ഇംഗ്ലീഷ്",
-  "stage3": "16. പദപ്പയറ്റ് അറബി"
- },
- {
   "code": "CJ220",
   "name": "MUHAMMED SABITH",
   "darsname": "MANBAU'SSA'ADA DARS MANIYAMBALAM",
@@ -2835,6 +2747,18 @@
   "offstage1": "28. തശ്കീല്‍",
   "offstage2": "29. മലയാള പ്രബന്ധം",
   "offstage3": "30. പ്രശ്‌നോത്തരി"
+ },
+ {
+  "code": "CJ219",
+  "name": "MOHAMMED DILSHAN",
+  "darsname": "MANBAU'SSA'ADA DARS MANIYAMBALAM",
+  "darsplace": "MANIYAMBALAM",
+  "zone": "Kozhikode",
+  "slug": "manbau'ssa'ada-dars-maniyambalam",
+  "category": "JUNIOR",
+  "stage1": "06. പ്രസംഗം ഉറുദു",
+  "stage2": "07. പ്രസംഗം ഇംഗ്ലീഷ്",
+  "stage3": "16. പദപ്പയറ്റ് അറബി"
  },
  {
   "code": "CJ221",
@@ -2875,16 +2799,6 @@
   "offstage1": "22. സുഡോക്കു"
  },
  {
-  "code": "CJ224",
-  "name": "MOHAMMED SINAN",
-  "darsname": "MANBAU'SSA'ADA DARS MANIYAMBALAM",
-  "darsplace": "MANIYAMBALAM",
-  "zone": "Kozhikode",
-  "slug": "manbau'ssa'ada-dars-maniyambalam",
-  "category": "JUNIOR",
-  "offstage1": "24. ഖത്തുന്നസ്ഖ്"
- },
- {
   "code": "CJ225",
   "name": "HAFIZ",
   "darsname": "MANBAU'SSA'ADA DARS MANIYAMBALAM",
@@ -2893,6 +2807,16 @@
   "slug": "manbau'ssa'ada-dars-maniyambalam",
   "category": "JUNIOR",
   "offstage1": "21. ചിത്രരചന"
+ },
+ {
+  "code": "CJ224",
+  "name": "MOHAMMED SINAN",
+  "darsname": "MANBAU'SSA'ADA DARS MANIYAMBALAM",
+  "darsplace": "MANIYAMBALAM",
+  "zone": "Kozhikode",
+  "slug": "manbau'ssa'ada-dars-maniyambalam",
+  "category": "JUNIOR",
+  "offstage1": "24. ഖത്തുന്നസ്ഖ്"
  },
  {
   "code": "CS623",
@@ -2948,20 +2872,6 @@
   "stage2": "12. കവിതാലാപനം മലയാളം"
  },
  {
-  "code": "CS627",
-  "name": "MOHAMMED FASIL MK",
-  "darsname": "MANBAU'SSA'ADA DARS MANIYAMBALAM",
-  "darsplace": "MANIYAMBALAM",
-  "zone": "Kozhikode",
-  "slug": "manbau'ssa'ada-dars-maniyambalam",
-  "category": "SENIOR",
-  "stage1": "09. പ്രസംഗം ഇംഗ്ലീഷ്",
-  "stage2": "14. അനൗണ്‍സ്‌മെന്റ്",
-  "offstage1": "29. പ്രബന്ധം ഇംഗ്ലീഷ്",
-  "offstage2": "32. തലവാചക നിര്‍മ്മാണം",
-  "offstage3": "38. തശ്കീല്‍"
- },
- {
   "code": "CS628",
   "name": "ABDUL HADI",
   "darsname": "MANBAU'SSA'ADA DARS MANIYAMBALAM",
@@ -2992,6 +2902,20 @@
   "offstage3": "35. നിഘണ്ടു നിര്‍മ്മാണം"
  },
  {
+  "code": "CS627",
+  "name": "MOHAMMED FASIL MK",
+  "darsname": "MANBAU'SSA'ADA DARS MANIYAMBALAM",
+  "darsplace": "MANIYAMBALAM",
+  "zone": "Kozhikode",
+  "slug": "manbau'ssa'ada-dars-maniyambalam",
+  "category": "SENIOR",
+  "stage1": "09. പ്രസംഗം ഇംഗ്ലീഷ്",
+  "stage2": "14. അനൗണ്‍സ്‌മെന്റ്",
+  "offstage1": "29. പ്രബന്ധം ഇംഗ്ലീഷ്",
+  "offstage2": "32. തലവാചക നിര്‍മ്മാണം",
+  "offstage3": "38. തശ്കീല്‍"
+ },
+ {
   "code": "CS630",
   "name": "SAYYID JASIR",
   "darsname": "MANBAU'SSA'ADA DARS MANIYAMBALAM",
@@ -3016,30 +2940,6 @@
   "offstage2": "22. പോസ്റ്റര്‍ ഡിസൈനിംഗ്"
  },
  {
-  "code": "CJ238",
-  "name": "MUHAMMED NAJIL",
-  "darsname": "NOORUL HUDA DARS CHERUMOTH",
-  "darsplace": "CHERUMOTH",
-  "zone": "Kozhikode",
-  "slug": "noorul-huda-dars-cherumoth",
-  "category": "JUNIOR",
-  "stage1": "05. പ്രസംഗം മലയാളം",
-  "stage2": "14. ഗദ്യവായന മലയാളം"
- },
- {
-  "code": "CJ239",
-  "name": "MUHAMMED FAYIS TV",
-  "darsname": "NOORUL HUDA DARS CHERUMOTH",
-  "darsplace": "CHERUMOTH",
-  "zone": "Kozhikode",
-  "slug": "noorul-huda-dars-cherumoth",
-  "category": "JUNIOR",
-  "stage1": "15. മുശാഅറ",
-  "groupstage1": "19. അറബി സംഘഗാനം",
-  "offstage1": "25. കേട്ടെഴുത്ത്",
-  "offstage2": "30. പ്രശ്‌നോത്തരി"
- },
- {
   "code": "CJ240",
   "name": "MUHAMMED VT",
   "darsname": "NOORUL HUDA DARS CHERUMOTH",
@@ -3051,6 +2951,29 @@
   "stage2": "04. പ്രസംഗം അറബി",
   "offstage1": "23. മെമ്മറി ടെസ്റ്റ്",
   "offstage2": "29. മലയാള പ്രബന്ധം"
+ },
+ {
+  "code": "CJ238",
+  "name": "MUHAMMED NAJIL",
+  "darsname": "NOORUL HUDA DARS CHERUMOTH",
+  "darsplace": "CHERUMOTH",
+  "zone": "Kozhikode",
+  "slug": "noorul-huda-dars-cherumoth",
+  "category": "JUNIOR",
+  "stage1": "05. പ്രസംഗം മലയാളം",
+  "stage2": "14. ഗദ്യവായന മലയാളം"
+ },
+ {
+  "code": "CJ242",
+  "name": "MUHAMMED SINAN",
+  "darsname": "NOORUL HUDA DARS CHERUMOTH",
+  "darsplace": "CHERUMOTH",
+  "zone": "Kozhikode",
+  "slug": "noorul-huda-dars-cherumoth",
+  "category": "JUNIOR",
+  "stage1": "07. പ്രസംഗം ഇംഗ്ലീഷ്",
+  "stage2": "13. കഥ പറച്ചില്‍",
+  "offstage1": "21. ചിത്രരചന"
  },
  {
   "code": "CJ241",
@@ -3066,16 +2989,65 @@
   "offstage1": "22. സുഡോക്കു"
  },
  {
-  "code": "CJ242",
-  "name": "MUHAMMED SINAN",
+  "code": "CJ239",
+  "name": "MUHAMMED FAYIS TV",
   "darsname": "NOORUL HUDA DARS CHERUMOTH",
   "darsplace": "CHERUMOTH",
   "zone": "Kozhikode",
   "slug": "noorul-huda-dars-cherumoth",
   "category": "JUNIOR",
-  "stage1": "07. പ്രസംഗം ഇംഗ്ലീഷ്",
-  "stage2": "13. കഥ പറച്ചില്‍",
-  "offstage1": "21. ചിത്രരചന"
+  "stage1": "15. മുശാഅറ",
+  "groupstage1": "19. അറബി സംഘഗാനം",
+  "offstage1": "25. കേട്ടെഴുത്ത്",
+  "offstage2": "30. പ്രശ്‌നോത്തരി"
+ },
+ {
+  "code": "CS645",
+  "name": "MUHAMMED ISHAK",
+  "darsname": "NOORUL HUDA DARS CHERUMOTH",
+  "darsplace": "CHERUMOTH",
+  "zone": "Kozhikode",
+  "slug": "noorul-huda-dars-cherumoth",
+  "category": "SENIOR",
+  "stage1": "01. ഖിറാഅത്ത്",
+  "stage2": "02. ഹിഫ്‌ള്"
+ },
+ {
+  "code": "CS644",
+  "name": "AJANAS",
+  "darsname": "NOORUL HUDA DARS CHERUMOTH",
+  "darsplace": "CHERUMOTH",
+  "zone": "Kozhikode",
+  "slug": "noorul-huda-dars-cherumoth",
+  "category": "SENIOR",
+  "stage1": "03. വാങ്ക്",
+  "stage2": "07. പ്രസംഗം അറബി"
+ },
+ {
+  "code": "CS643",
+  "name": "MUHAMMED SHAHANAD",
+  "darsname": "NOORUL HUDA DARS CHERUMOTH",
+  "darsplace": "CHERUMOTH",
+  "zone": "Kozhikode",
+  "slug": "noorul-huda-dars-cherumoth",
+  "category": "SENIOR",
+  "stage1": "05. വഅ്‌ള്",
+  "groupstage1": "20. പ്രോഗ്രാം സെറ്റിംഗ്"
+ },
+ {
+  "code": "CS647",
+  "name": "MUHAMMED SAFVAN PECHAMCODE",
+  "darsname": "NOORUL HUDA DARS CHERUMOTH",
+  "darsplace": "CHERUMOTH",
+  "zone": "Kozhikode",
+  "slug": "noorul-huda-dars-cherumoth",
+  "category": "SENIOR",
+  "stage1": "06. പ്രസംഗം മലയാളം",
+  "stage2": "08. പ്രസംഗം ഉറുദു",
+  "stage3": "16. നിമിഷപ്രസംഗം",
+  "offstage1": "32. തലവാചക നിര്‍മ്മാണം",
+  "offstage2": "36. അടിക്കുറിപ്പ്",
+  "offstage3": "39. പ്രശ്‌നോത്തരി"
  },
  {
   "code": "CS642",
@@ -3095,39 +3067,6 @@
   "offstage3": "31. റിപ്പോര്‍ട്ടിംഗ്"
  },
  {
-  "code": "CS643",
-  "name": "MUHAMMED SHAHANAD",
-  "darsname": "NOORUL HUDA DARS CHERUMOTH",
-  "darsplace": "CHERUMOTH",
-  "zone": "Kozhikode",
-  "slug": "noorul-huda-dars-cherumoth",
-  "category": "SENIOR",
-  "stage1": "05. വഅ്‌ള്",
-  "groupstage1": "20. പ്രോഗ്രാം സെറ്റിംഗ്"
- },
- {
-  "code": "CS644",
-  "name": "AJANAS",
-  "darsname": "NOORUL HUDA DARS CHERUMOTH",
-  "darsplace": "CHERUMOTH",
-  "zone": "Kozhikode",
-  "slug": "noorul-huda-dars-cherumoth",
-  "category": "SENIOR",
-  "stage1": "03. വാങ്ക്",
-  "stage2": "07. പ്രസംഗം അറബി"
- },
- {
-  "code": "CS645",
-  "name": "MUHAMMED ISHAK",
-  "darsname": "NOORUL HUDA DARS CHERUMOTH",
-  "darsplace": "CHERUMOTH",
-  "zone": "Kozhikode",
-  "slug": "noorul-huda-dars-cherumoth",
-  "category": "SENIOR",
-  "stage1": "01. ഖിറാഅത്ത്",
-  "stage2": "02. ഹിഫ്‌ള്"
- },
- {
   "code": "CS646",
   "name": "MUHAMMED SHUKUR",
   "darsname": "NOORUL HUDA DARS CHERUMOTH",
@@ -3136,20 +3075,5 @@
   "slug": "noorul-huda-dars-cherumoth",
   "category": "SENIOR",
   "stage1": "10. ഖുഥ്ബ"
- },
- {
-  "code": "CS647",
-  "name": "MUHAMMED SAFVAN PECHAMCODE",
-  "darsname": "NOORUL HUDA DARS CHERUMOTH",
-  "darsplace": "CHERUMOTH",
-  "zone": "Kozhikode",
-  "slug": "noorul-huda-dars-cherumoth",
-  "category": "SENIOR",
-  "stage1": "06. പ്രസംഗം മലയാളം",
-  "stage2": "08. പ്രസംഗം ഉറുദു",
-  "stage3": "16. നിമിഷപ്രസംഗം",
-  "offstage1": "32. തലവാചക നിര്‍മ്മാണം",
-  "offstage2": "36. അടിക്കുറിപ്പ്",
-  "offstage3": "39. പ്രശ്‌നോത്തരി"
  }
 ]
